@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/formula-app/static/css/main.2b3a51a3.chunk.css",
+    "main.js": "/formula-app/static/js/main.815189f6.chunk.js",
+    "main.js.map": "/formula-app/static/js/main.815189f6.chunk.js.map",
+    "runtime-main.js": "/formula-app/static/js/runtime-main.4bcc1674.js",
+    "runtime-main.js.map": "/formula-app/static/js/runtime-main.4bcc1674.js.map",
+    "static/css/2.8bed955a.chunk.css": "/formula-app/static/css/2.8bed955a.chunk.css",
+    "static/js/2.4bb8a718.chunk.js": "/formula-app/static/js/2.4bb8a718.chunk.js",
+    "static/js/2.4bb8a718.chunk.js.map": "/formula-app/static/js/2.4bb8a718.chunk.js.map",
+    "index.html": "/formula-app/index.html",
+    "precache-manifest.5be5f38398d32d8e6d367e2ad4284da4.js": "/formula-app/precache-manifest.5be5f38398d32d8e6d367e2ad4284da4.js",
+    "service-worker.js": "/formula-app/service-worker.js",
+    "static/css/2.8bed955a.chunk.css.map": "/formula-app/static/css/2.8bed955a.chunk.css.map",
+    "static/css/main.2b3a51a3.chunk.css.map": "/formula-app/static/css/main.2b3a51a3.chunk.css.map",
+    "static/media/App.css": "/formula-app/static/media/f1-loading.3a57ff3a.gif",
+    "static/media/f1-logo.jpeg": "/formula-app/static/media/f1-logo.a4c37522.jpeg",
+    "static/media/page-not-found.jpg": "/formula-app/static/media/page-not-found.13c108f4.jpg",
+    "static/media/safety-car.gif": "/formula-app/static/media/safety-car.c1ca08b7.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4bcc1674.js",
+    "static/css/2.8bed955a.chunk.css",
+    "static/js/2.4bb8a718.chunk.js",
+    "static/css/main.2b3a51a3.chunk.css",
+    "static/js/main.815189f6.chunk.js"
+  ]
+}
