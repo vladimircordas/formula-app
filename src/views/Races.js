@@ -28,7 +28,7 @@ class Races extends React.Component {
 
     getRaces = () => {
         var year = this.state.year;
-        var url = `http://ergast.com/api/f1/${year}/results/1.json`;
+        var url = `https://ergast.com/api/f1/${year}/results/1.json`;
         $.get(url, (data) => {
             this.setState({
                 races: data,

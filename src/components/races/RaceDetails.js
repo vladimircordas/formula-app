@@ -29,7 +29,7 @@ class RaceDetails extends React.Component {
     getRaces = () => {
         const year = this.props.year;
         const id = this.props.match.params.race;
-        var url = `http://ergast.com/api/f1/${year}/circuits/${id}.json`;
+        var url = `https://ergast.com/api/f1/${year}/circuits/${id}.json`;
         $.get(url, (data) => {
             this.setState({
                 race: data,
@@ -96,7 +96,7 @@ class RaceDetails extends React.Component {
                                     <div className="card-image">
                                         <LazyLoadImage
                                             alt={race.circuitId}
-                                            src={`${this.circuitImagesFunction(circuitId)}`} // use normal <img> attributes as props 
+                                            src={`${process.env.PUBLIC_URL + this.circuitImagesFunction(circuitId)}`} // use normal <img> attributes as props 
                                         />
                                     </div>
                                     <div className="card-content">

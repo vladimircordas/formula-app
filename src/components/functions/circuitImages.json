@@ -1,290 +1,290 @@
 [
     {
         "id": "valencia",
-        "image": "../../images/tracks/valencia.jpg"
+        "image": "/images/tracks/valencia.jpg"
     },
     {
         "id": "istanbul",
-        "image": "../../images/tracks/istanbul.jpg"
+        "image": "/images/tracks/istanbul.jpg"
     },
     {
         "id": "okayama",
-        "image": "../../images/tracks/okayama.jpg"
+        "image": "/images/tracks/okayama.jpg"
     },
     {
         "id": "magny_cours",
-        "image": "../../images/tracks/magny_cours.jpg"
+        "image": "/images/tracks/magny_cours.jpg"
     },
     {
         "id": "donington",
-        "image": "../../images/tracks/donington.jpg"
+        "image": "/images/tracks/donington.jpg"
     },
     {
         "id": "phoenix",
-        "image": "../../images/tracks/phoenix.jpg"
+        "image": "/images/tracks/phoenix.jpg"
     },
     {
         "id": "jerez",
-        "image": "../../images/tracks/jerez.jpg"
+        "image": "/images/tracks/jerez.jpg"
     },
     {
         "id": "adelaide",
-        "image": "../../images/tracks/adelaide.jpg"
+        "image": "/images/tracks/adelaide.jpg"
     },
     {
         "id": "estoril",
-        "image": "../../images/tracks/estoril.jpg"
+        "image": "/images/tracks/estoril.jpg"
     },
     {
         "id": "dallas",
-        "image": "../../images/tracks/dallas.jpg"
+        "image": "/images/tracks/dallas.jpg"
     },
     {
         "id": "detroit",
-        "image": "../../images/tracks/detroit.jpg"
+        "image": "/images/tracks/detroit.jpg"
     },
     {
         "id": "las_vegas",
-        "image": "../../images/tracks/las_vegas.png"
+        "image": "/images/tracks/las_vegas.png"
     },
     {
         "id": "imola",
-        "image": "../../images/tracks/imola.jpg"
+        "image": "/images/tracks/imola.jpg"
     },
     {
         "id": "jacarepagua",
-        "image": "../../images/tracks/jacarepagua.jpg"
+        "image": "/images/tracks/jacarepagua.jpg"
     },
     {
         "id": "fuji",
-        "image": "../../images/tracks/fuji.jpg"
+        "image": "/images/tracks/fuji.jpg"
     },
     {
         "id": "dijon",
-        "image": "../../images/tracks/dijon.jpg"
+        "image": "/images/tracks/dijon.jpg"
     },
     {
         "id": "long_beach",
-        "image": "../../images/tracks/long_beach.jpg"
+        "image": "/images/tracks/long_beach.jpg"
     },
     {
         "id": "anderstorp",
-        "image": "../../images/tracks/anderstorp.jpg"
+        "image": "/images/tracks/anderstorp.jpg"
     },
     {
         "id": "zolder",
-        "image": "../../images/tracks/zolder.jpg"
+        "image": "/images/tracks/zolder.jpg"
     },
     {
         "id": "nivelles",
-        "image": "../../images/tracks/nivelles.jpg"
+        "image": "/images/tracks/nivelles.jpg"
     },
     {
         "id": "osterreichring",
-        "image": "../../images/tracks/red_bull_ring.jpg"
+        "image": "/images/tracks/red_bull_ring.jpg"
     },
     {
         "id": "mosport",
-        "image": "../../images/tracks/mosport.jpg"
+        "image": "/images/tracks/mosport.jpg"
     },
     {
         "id": "montjuic",
-        "image": "../../images/tracks/montjuic.jpg"
+        "image": "/images/tracks/montjuic.jpg"
     },
     {
         "id": "tremblant",
-        "image": "../../images/tracks/tremblant.jpg"
+        "image": "/images/tracks/tremblant.jpg"
     },
     {
         "id": "jarama",
-        "image": "../../images/tracks/jarama.jpg"
+        "image": "/images/tracks/jarama.jpg"
     },
     {
         "id": "kyalami",
-        "image": "../../images/tracks/kyalami.jpg"
+        "image": "/images/tracks/kyalami.jpg"
     },
     {
         "id": "charade",
-        "image": "../../images/tracks/charade.jpg"
+        "image": "/images/tracks/charade.jpg"
     },
     {
         "id": "zeltweg",
-        "image": "../../images/tracks/zeltweg.jpg"
+        "image": "/images/tracks/zeltweg.jpg"
     },
     {
         "id": "brands_hatch",
-        "image": "../../images/tracks/brands_hatch.jpg"
+        "image": "/images/tracks/brands_hatch.jpg"
     },
     {
         "id": "george",
-        "image": "../../images/tracks/george.jpg"
+        "image": "/images/tracks/george.jpg"
     },
     {
         "id": "essarts",
-        "image": "../../images/tracks/essarts.jpg"
+        "image": "/images/tracks/essarts.jpg"
     },
     {
         "id": "watkins_glen",
-        "image": "../../images/tracks/watkins_glen.jpg"
+        "image": "/images/tracks/watkins_glen.jpg"
     },
     {
         "id": "riverside",
-        "image": "../../images/tracks/riverside.jpg"
+        "image": "/images/tracks/riverside.jpg"
     },
     {
         "id": "sebring",
-        "image": "../../images/tracks/sebring.jpg"
+        "image": "/images/tracks/sebring.jpg"
     },
     {
         "id": "monsanto",
-        "image": "../../images/tracks/monsanto.jpeg"
+        "image": "/images/tracks/monsanto.jpeg"
     },
     {
         "id": "avus",
-        "image": "../../images/tracks/avus.jpg"
+        "image": "/images/tracks/avus.jpg"
     },
     {
         "id": "aintree",
-        "image": "../../images/tracks/aintree.jpg"
+        "image": "/images/tracks/aintree.jpg"
     },
     {
         "id": "ain-diab",
-        "image": "../../images/tracks/ain-diab.png"
+        "image": "/images/tracks/ain-diab.png"
     },
     {
         "id": "boavista",
-        "image": "../../images/tracks/boavista.jpg"
+        "image": "/images/tracks/boavista.jpg"
     },
     {
         "id": "pescara",
-        "image": "../../images/tracks/pescara.jpg"
+        "image": "/images/tracks/pescara.jpg"
     },
     {
         "id": "zandvoort",
-        "image": "../../images/tracks/zandvoort.jpg"
+        "image": "/images/tracks/zandvoort.jpg"
     },
     {
         "id": "galvez",
-        "image": "../../images/tracks/galvez.jpg"
+        "image": "/images/tracks/galvez.jpg"
     },
     {
         "id": "pedralbes",
-        "image": "../../images/tracks/pedralbes.jpg"
+        "image": "/images/tracks/pedralbes.jpg"
     },
     {
         "id": "reims",
-        "image": "../../images/tracks/reims.png"
+        "image": "/images/tracks/reims.png"
     },
     {
         "id": "bremgarten",
-        "image": "../../images/tracks/bremgarten.jpg"
+        "image": "/images/tracks/bremgarten.jpg"
     },
     {
         "id": "indianapolis",
-        "image": "../../images/tracks/indianapolis.jpg"
+        "image": "/images/tracks/indianapolis.jpg"
     },
     {
         "id": "interlagos",
-        "image": "../../images/tracks/interlagos.jpg"
+        "image": "/images/tracks/interlagos.jpg"
     },
     {
         "id": "rodriguez",
-        "image": "../../images/tracks/rodriguez.jpg"
+        "image": "/images/tracks/rodriguez.jpg"
     },
     {
         "id": "sochi",
-        "image": "../../images/tracks/sochi.jpg"
+        "image": "/images/tracks/sochi.jpg"
     },
     {
         "id": "hockenheimring",
-        "image": "../../images/tracks/hockenheimring.jpg"
+        "image": "/images/tracks/hockenheimring.jpg"
     },
     {
         "id": "red_bull_ring",
-        "image": "../../images/tracks/red_bull_ring.jpg"
+        "image": "/images/tracks/red_bull_ring.jpg"
     },
     {
         "id": "ricard",
-        "image": "../../images/tracks/ricard.jpg"
+        "image": "/images/tracks/ricard.jpg"
     },
     {
         "id": "BAK",
-        "image": "../../images/tracks/BAK.jpg"
+        "image": "/images/tracks/BAK.jpg"
     },
     {
         "id": "albert_park",
-        "image": "../../images/tracks/albert-park.jpg"
+        "image": "/images/tracks/albert-park.jpg"
     },
     {
         "id": "sepang",
-        "image": "../../images/tracks/sepang.jpg"
+        "image": "/images/tracks/sepang.jpg"
     },
     {
         "id": "shanghai",
-        "image": "../../images/tracks/shanghai.jpg"
+        "image": "/images/tracks/shanghai.jpg"
     },
     {
         "id": "bahrain",
-        "image": "../../images/tracks/bahrain.jpg"
+        "image": "/images/tracks/bahrain.jpg"
     },
     {
         "id": "catalunya",
-        "image": "../../images/tracks/barcelona.jpg"
+        "image": "/images/tracks/barcelona.jpg"
     },
     {
         "id": "monaco",
-        "image": "../../images/tracks/monaco.jpg"
+        "image": "/images/tracks/monaco.jpg"
     },
     {
         "id": "villeneuve",
-        "image": "../../images/tracks/montreal.jpg"
+        "image": "/images/tracks/montreal.jpg"
     },
     {
         "id": "silverstone",
-        "image": "../../images/tracks/silverstone.jpg"
+        "image": "/images/tracks/silverstone.jpg"
     },
     {
         "id": "nurburgring",
-        "image": "../../images/tracks/nurburgring.jpg"
+        "image": "/images/tracks/nurburgring.jpg"
     },
     {
         "id": "hungaroring",
-        "image": "../../images/tracks/hungaroring.jpg"
+        "image": "/images/tracks/hungaroring.jpg"
     },
     {
         "id": "spa",
-        "image": "../../images/tracks/belgiangp.jpg"
+        "image": "/images/tracks/belgiangp.jpg"
     },
     {
         "id": "monza",
-        "image": "../../images/tracks/monza.jpg"
+        "image": "/images/tracks/monza.jpg"
     },
     {
         "id": "marina_bay",
-        "image": "../../images/tracks/singapore.jpg"
+        "image": "/images/tracks/singapore.jpg"
     },
     {
         "id": "yeongam",
-        "image": "../../images/tracks/korea.jpg"
+        "image": "/images/tracks/korea.jpg"
     },
     {
         "id": "suzuka",
-        "image": "../../images/tracks/suzuka.jpg"
+        "image": "/images/tracks/suzuka.jpg"
     },
     {
         "id": "buddh",
-        "image": "../../images/tracks/india.jpg"
+        "image": "/images/tracks/india.jpg"
     },
     {
         "id": "yas_marina",
-        "image": "../../images/tracks/abudhabi.jpg"
+        "image": "/images/tracks/abudhabi.jpg"
     },
     {
         "id": "americas",
-        "image": "../../images/tracks/america.jpg"
+        "image": "/images/tracks/america.jpg"
     },
     {
         "id": "interlagos",
-        "image": "../../images/tracks/brasil.jpg"
+        "image": "/images/tracks/brasil.jpg"
     }
 ]

@@ -32,7 +32,7 @@ export class TeamResults extends React.Component {
     getResults = () => {
         var year = this.state.year;
         const id = this.props.teamid;
-        var url = `http://ergast.com/api/f1/${year}/constructors/${id}/results.json`;
+        var url = `https://ergast.com/api/f1/${year}/constructors/${id}/results.json`;
         $.get(url, (data) => {
             this.setState({
                 results: data,
@@ -58,12 +58,12 @@ export class TeamResults extends React.Component {
         //console.log(results);
 
         var driver1 = "no-data";
-        var driver2 = "no-data";
+        var driver2 = "another driver";
         if (results[0].Results[0] !== undefined) {
             driver1 = results[0].Results[0].Driver.familyName;
         }
 
-        if (results[0].Results[1] !== undefined ) {
+        if (results[0].Results[1] !== undefined) {
             driver2 = results[0].Results[1].Driver.familyName;
         }
 
@@ -117,10 +117,10 @@ class Results extends React.Component {
         }
         var points1 = 0;
         var points2 = 0;
-        if(resultData.Results[0] !== undefined){
+        if (resultData.Results[0] !== undefined) {
             points1 = resultData.Results[0].points;
         }
-        if(resultData.Results[1] !== undefined){
+        if (resultData.Results[1] !== undefined) {
             points2 = resultData.Results[1].points;
         }
         var pointsTotal = parseInt(points1) + parseInt(points2);

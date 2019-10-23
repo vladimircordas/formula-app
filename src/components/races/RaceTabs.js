@@ -29,6 +29,10 @@ const styles = theme => ({
     width: '100%',
     backgroundColor: theme.palette.background.paper,
   },
+  tabStyle: {
+    backgroundColor: '#b2b2b2',
+    color: '#d50000',
+  }
 });
 
 class ScrollableTabsButtonAuto extends React.Component {
@@ -48,7 +52,7 @@ class ScrollableTabsButtonAuto extends React.Component {
 
     return (
       <div className={classes.root}>
-        <AppBar position="static" color="default">
+        <AppBar position="static">
           <Tabs
             value={value}
             onChange={this.handleChange}

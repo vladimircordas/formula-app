@@ -35,7 +35,7 @@ export class RaceQualifiers extends Component {
     getResults = () => {
         const year = this.state.year;
         const id = this.props.raceid
-        var url = `http://ergast.com/api/f1/${year}/circuits/${id}/qualifying.json`;
+        var url = `https://ergast.com/api/f1/${year}/circuits/${id}/qualifying.json`;
         $.get(url, (data) => {
             this.setState({
                 results: data,

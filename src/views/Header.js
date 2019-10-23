@@ -51,7 +51,7 @@ export default function TemporaryDrawer() {
         </div >
     );
 
-    
+
 
     return (
         <div className="side-menu-button-wrapper">

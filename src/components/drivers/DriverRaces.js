@@ -36,7 +36,7 @@ export class DriverRaces extends React.Component {
         var year = this.state.year;
         console.log(year);
         const id = this.props.driverid;
-        var url = `http://ergast.com/api/f1/${year}/drivers/${id}/results.json`;
+        var url = `https://ergast.com/api/f1/${year}/drivers/${id}/results.json`;
         $.get(url, (data) => {
             this.setState({
                 results: data,

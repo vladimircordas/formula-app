@@ -31,7 +31,7 @@ class Teams extends React.Component {
 
     getTeams() {
         const year = this.state.year;
-        var url = `http://ergast.com/api/f1/${year}/constructorStandings.json`;
+        var url = `https://ergast.com/api/f1/${year}/constructorStandings.json`;
         $.get(url, (data) => {
             //    console.log(data);
             this.setState({

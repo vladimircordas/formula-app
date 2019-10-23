@@ -47,22 +47,22 @@ class App extends Component {
           <div className="mainBody">
             <Switch>
 
-              <Route exact path='/' component={() => <Home year={year} />} />
+              <Route exact path={process.env.PUBLIC_URL + '/'} component={() => <Home year={year} />} />
 
-              <Route exact path='/drivers' component={() => <Drivers year={year} />} />
-              <Route exact path='/drivers/:driver' component={(props) => <DriverDetails {...props} year={year} />} />
+              <Route exact path={process.env.PUBLIC_URL + '/drivers'} component={() => <Drivers year={year} />} />
+              <Route exact path={process.env.PUBLIC_URL + '/drivers/:driver'} component={(props) => <DriverDetails {...props} year={year} />} />
 
-              <Route exact path='/teams' component={() => <Teams year={year} />} />
-              <Route exact path='/teams/:team' component={(props) => <TeamDetails {...props} year={year} />} />
+              <Route exact path={process.env.PUBLIC_URL + '/teams'} component={() => <Teams year={year} />} />
+              <Route exact path={process.env.PUBLIC_URL + '/teams/:team'} component={(props) => <TeamDetails {...props} year={year} />} />
 
-              <Route exact path='/races' component={() => <Races year={year} />} />
-              <Route exact path='/races/:race' component={(props) => <RaceDetails {...props} year={year} />} />
+              <Route exact path={process.env.PUBLIC_URL + '/races'} component={() => <Races year={year} />} />
+              <Route exact path={process.env.PUBLIC_URL + '/races/:race'} component={(props) => <RaceDetails {...props} year={year} />} />
 
               <Route component={NotFound} />
-              
+
             </Switch>
           </div>
-        <Footer />
+          <Footer />
         </Router>
       </div>
     );

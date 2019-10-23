@@ -32,7 +32,7 @@ class Drivers extends React.Component {
     getDrivers() {
         var year = this.state.year;
         //console.log(year);
-        var url = `http://ergast.com/api/f1/${year}/driverStandings.json`;
+        var url = `https://ergast.com/api/f1/${year}/driverStandings.json`;
         $.get(url, (data) => {
             //console.log(data);
             this.setState({
