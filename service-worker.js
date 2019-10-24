@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/formula-app/precache-manifest.0fb939a3bdb7b9cf117952573a31b4fd.js"
+  "/formula-app/precache-manifest.527908b01edece8f58dc220c0f2d92d6.js"
 );
 
 self.addEventListener('message', (event) => {
