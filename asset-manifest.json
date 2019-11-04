@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/formula-app/static/css/main.24924da1.chunk.css",
-    "main.js": "/formula-app/static/js/main.d45132c2.chunk.js",
-    "main.js.map": "/formula-app/static/js/main.d45132c2.chunk.js.map",
+    "main.js": "/formula-app/static/js/main.bb59b2f5.chunk.js",
+    "main.js.map": "/formula-app/static/js/main.bb59b2f5.chunk.js.map",
     "runtime-main.js": "/formula-app/static/js/runtime-main.4bcc1674.js",
     "runtime-main.js.map": "/formula-app/static/js/runtime-main.4bcc1674.js.map",
     "static/css/2.8bed955a.chunk.css": "/formula-app/static/css/2.8bed955a.chunk.css",
     "static/js/2.c4f29361.chunk.js": "/formula-app/static/js/2.c4f29361.chunk.js",
     "static/js/2.c4f29361.chunk.js.map": "/formula-app/static/js/2.c4f29361.chunk.js.map",
     "index.html": "/formula-app/index.html",
-    "precache-manifest.f6c5ceeee6ec3676e88f36e84b9b7d1d.js": "/formula-app/precache-manifest.f6c5ceeee6ec3676e88f36e84b9b7d1d.js",
+    "precache-manifest.92353873ff3a7f0ad598c2c89b82474b.js": "/formula-app/precache-manifest.92353873ff3a7f0ad598c2c89b82474b.js",
     "service-worker.js": "/formula-app/service-worker.js",
     "static/css/2.8bed955a.chunk.css.map": "/formula-app/static/css/2.8bed955a.chunk.css.map",
     "static/css/main.24924da1.chunk.css.map": "/formula-app/static/css/main.24924da1.chunk.css.map",
@@ -23,6 +23,6 @@
     "static/css/2.8bed955a.chunk.css",
     "static/js/2.c4f29361.chunk.js",
     "static/css/main.24924da1.chunk.css",
-    "static/js/main.d45132c2.chunk.js"
+    "static/js/main.bb59b2f5.chunk.js"
   ]
 }
