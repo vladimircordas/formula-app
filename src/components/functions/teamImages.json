@@ -1,626 +1,625 @@
-[
-    {
+[{
         "id": "osca",
-        "image": "../../images/teams/osca.jpg"
+        "image": "/images/teams/osca.jpg"
     },
     {
         "id": "fry",
-        "image": "../../images/teams/default.jpg"
+        "image": "/images/teams/default.jpg"
     },
     {
         "id": "connaught",
-        "image": "../../images/teams/connaught.jpg"
+        "image": "/images/teams/connaught.jpg"
     },
     {
         "id": "tec-mec",
-        "image": "../../images/teams/tec-mec.jpg"
+        "image": "/images/teams/tec-mec.jpg"
     },
     {
         "id": "cooper-borgward",
-        "image": "../../images/teams/cooper-borgward.png"
+        "image": "/images/teams/cooper-borgward.png"
     },
     {
         "id": "kurtis_kraft",
-        "image": "../../images/teams/kurtis_kraft.jpg"
+        "image": "/images/teams/kurtis_kraft.jpg"
     },
     {
         "id": "vanwall",
-        "image": "../../images/teams/vanwall.jpg"
+        "image": "/images/teams/vanwall.jpg"
     },
     {
         "id": "maserati",
-        "image": "../../images/teams/maserati.jpg"
+        "image": "/images/teams/maserati.jpg"
     },
     {
         "id": "aston_martin",
-        "image": "../../images/teams/aston_martin.jpg"
+        "image": "/images/teams/aston_martin.jpg"
     },
     {
         "id": "scarab",
-        "image": "../../images/teams/scarab.jpg"
+        "image": "/images/teams/scarab.jpg"
     },
     {
         "id": "behra-porsche",
-        "image": "../../images/teams/porsche.png"
+        "image": "/images/teams/porsche.png"
     },
     {
         "id": "cooper-castellotti",
-        "image": "../../images/teams/cooper.jpg"
+        "image": "/images/teams/cooper.jpg"
     },
     {
         "id": "mbm",
-        "image": "../../images/teams/mbm.png"
+        "image": "/images/teams/mbm.png"
     },
     {
         "id": "jbw",
-        "image": "../../images/teams/jbw.jpg"
+        "image": "/images/teams/jbw.jpg"
     },
     {
         "id": "de_tomaso-osca",
-        "image": "../../images/teams/tomaso.jpg"
+        "image": "/images/teams/tomaso.jpg"
     },
     {
         "id": "de_tomaso-alfa_romeo",
-        "image": "../../images/teams/tomaso.jpg"
+        "image": "/images/teams/tomaso.jpg"
     },
     {
         "id": "cooper-alfa_romeo",
-        "image": "../../images/teams/alfa.png"
+        "image": "/images/teams/alfa.png"
     },
     {
         "id": "cooper",
-        "image": "../../images/teams/cooper.jpg"
+        "image": "/images/teams/cooper.jpg"
     },
     {
         "id": "enb",
-        "image": "../../images/teams/enb.jpg"
+        "image": "/images/teams/enb.jpg"
     },
     {
         "id": "emeryson",
-        "image": "../../images/teams/emeryson.jpg"
+        "image": "/images/teams/emeryson.jpg"
     },
     {
         "id": "lotus-maserati",
-        "image": "../../images/teams/lotus.jpg"
+        "image": "/images/teams/lotus.jpg"
     },
     {
         "id": "de_tomaso-ferrari",
-        "image": "../../images/teams/ferrari.jpg"
+        "image": "/images/teams/ferrari.jpg"
     },
     {
         "id": "lotus-borgward",
-        "image": "../../images/teams/lotus.jpg"
+        "image": "/images/teams/lotus.jpg"
     },
     {
         "id": "gilby",
-        "image": "../../images/teams/default.jpg"
+        "image": "/images/teams/default.jpg"
     },
     {
         "id": "stebro",
-        "image": "../../images/teams/stebro.jpg"
+        "image": "/images/teams/stebro.jpg"
     },
     {
         "id": "porsche",
-        "image": "../../images/teams/porsche.png"
+        "image": "/images/teams/porsche.png"
     },
     {
         "id": "derrington",
-        "image": "../../images/teams/default.jpg"
+        "image": "/images/teams/default.jpg"
     },
     {
         "id": "scirocco",
-        "image": "../../images/teams/scirocco.jpg"
+        "image": "/images/teams/scirocco.jpg"
     },
     {
         "id": "brp",
-        "image": "../../images/teams/brp.jpg"
+        "image": "/images/teams/brp.jpg"
     },
     {
         "id": "re",
-        "image": "../../images/teams/default.jpg"
+        "image": "/images/teams/default.jpg"
     },
     {
         "id": "cooper-ford",
-        "image": "../../images/teams/cooper.jpg"
+        "image": "/images/teams/cooper.jpg"
     },
     {
         "id": "lds-alfa_romeo",
-        "image": "../../images/teams/alfa.png"
+        "image": "/images/teams/alfa.png"
     },
     {
         "id": "shannon",
-        "image": "../../images/teams/shannon.jpg"
+        "image": "/images/teams/shannon.jpg"
     },
     {
         "id": "cooper-ferrari",
-        "image": "../../images/teams/ferrari.jpg"
+        "image": "/images/teams/ferrari.jpg"
     },
     {
         "id": "mclaren-seren",
-        "image": "../../images/teams/mclaren.jpg"
+        "image": "/images/teams/mclaren.jpg"
     },
     {
         "id": "brabham-brm",
-        "image": "../../images/teams/brm.jpg"
+        "image": "/images/teams/brm.jpg"
     },
     {
         "id": "cooper-ats",
-        "image": "../../images/teams/cooper.jpg"
+        "image": "/images/teams/cooper.jpg"
     },
     {
         "id": "protos",
-        "image": "../../images/teams/protos.png"
+        "image": "/images/teams/protos.png"
     },
     {
         "id": "eagle-climax",
-        "image": "../../images/teams/eagle-weslake.png"
+        "image": "/images/teams/eagle-weslake.png"
     },
     {
         "id": "lotus-climax",
-        "image": "../../images/teams/lotus.jpg"
+        "image": "/images/teams/lotus.jpg"
     },
     {
         "id": "lds-climax",
-        "image": "../../images/teams/lds.jpg"
+        "image": "/images/teams/lds.jpg"
     },
     {
         "id": "lotus-brm",
-        "image": "../../images/teams/lotus.jpg"
+        "image": "/images/teams/lotus.jpg"
     },
     {
         "id": "cooper-climax",
-        "image": "../../images/teams/cooper.jpg"
+        "image": "/images/teams/cooper.jpg"
     },
     {
         "id": "lds",
-        "image": "../../images/teams/lds.jpg"
+        "image": "/images/teams/lds.jpg"
     },
     {
         "id": "eagle-weslake",
-        "image": "../../images/teams/eagle-weslake.png"
+        "image": "/images/teams/eagle-weslake.png"
     },
     {
         "id": "mclaren-brm",
-        "image": "../../images/teams/mclaren.jpg"
+        "image": "/images/teams/mclaren.jpg"
     },
     {
         "id": "cooper-brm",
-        "image": "../../images/teams/cooper.jpg"
+        "image": "/images/teams/cooper.jpg"
     },
     {
         "id": "brabham-climax",
-        "image": "../../images/teams/brabham.jpeg"
+        "image": "/images/teams/brabham.jpeg"
     },
     {
         "id": "brm-ford",
-        "image": "../../images/teams/brm.jpg"
+        "image": "/images/teams/brm.jpg"
     },
     {
         "id": "brabham-repco",
-        "image": "../../images/teams/brabham-repco.jpg"
+        "image": "/images/teams/brabham-repco.jpg"
     },
     {
         "id": "cooper-maserati",
-        "image": "../../images/teams/cooper.jpg"
+        "image": "/images/teams/cooper.jpg"
     },
     {
         "id": "mclaren-ford",
-        "image": "../../images/teams/mclaren.jpg"
+        "image": "/images/teams/mclaren.jpg"
     },
     {
         "id": "lotus-ford",
-        "image": "../../images/teams/lotus.jpg"
+        "image": "/images/teams/lotus.jpg"
     },
     {
         "id": "matra-ford",
-        "image": "../../images/teams/matra.jpg"
+        "image": "/images/teams/matra.jpg"
     },
     {
         "id": "tomaso",
-        "image": "../../images/teams/tomaso.jpg"
+        "image": "/images/teams/tomaso.jpg"
     },
     {
         "id": "mclaren-alfa_romeo",
-        "image": "../../images/teams/alfa.png"
+        "image": "/images/teams/alfa.png"
     },
     {
         "id": "matra",
-        "image": "../../images/teams/matra.jpg"
+        "image": "/images/teams/matra.jpg"
     },
     {
         "id": "bellasi",
-        "image": "../../images/teams/bellasi.jpg"
+        "image": "/images/teams/bellasi.jpg"
     },
     {
         "id": "march-alfa_romeo",
-        "image": "../../images/teams/alfa.png"
+        "image": "/images/teams/alfa.png"
     },
     {
         "id": "lotus-pw",
-        "image": "../../images/teams/lotus.jpg"
+        "image": "/images/teams/lotus.jpg"
     },
     {
         "id": "march-ford",
-        "image": "../../images/teams/march.jpg"
+        "image": "/images/teams/march.jpg"
     },
     {
         "id": "politoys",
-        "image": "../../images/teams/politoys.jpeg"
+        "image": "/images/teams/politoys.jpeg"
     },
     {
         "id": "connew",
-        "image": "../../images/teams/connew.jpg"
+        "image": "/images/teams/connew.jpg"
     },
     {
         "id": "tecno",
-        "image": "../../images/teams/tecno.jpg"
+        "image": "/images/teams/tecno.jpg"
     },
     {
         "id": "amon",
-        "image": "../../images/teams/amon.jpg"
+        "image": "/images/teams/amon.jpg"
     },
     {
         "id": "token",
-        "image": "../../images/teams/token.jpg"
+        "image": "/images/teams/token.jpg"
     },
     {
         "id": "trojan",
-        "image": "../../images/teams/trojan.jpg"
+        "image": "/images/teams/trojan.jpg"
     },
     {
         "id": "iso_marlboro",
-        "image": "../../images/teams/iso_marlboro.jpg"
+        "image": "/images/teams/iso_marlboro.jpg"
     },
     {
         "id": "shadow-matra",
-        "image": "../../images/teams/shadow-matra.jpg"
+        "image": "/images/teams/shadow-matra.jpg"
     },
     {
         "id": "lyncar",
-        "image": "../../images/teams/lyncar.jpg"
+        "image": "/images/teams/lyncar.jpg"
     },
     {
         "id": "hill",
-        "image": "../../images/teams/hill.jpg"
+        "image": "/images/teams/hill.jpg"
     },
     {
         "id": "shadow-ford",
-        "image": "../../images/teams/shadow.jpg"
+        "image": "/images/teams/shadow.jpg"
     },
     {
         "id": "maki",
-        "image": "../../images/teams/maki.jpg"
+        "image": "/images/teams/maki.jpg"
     },
     {
         "id": "parnelli",
-        "image": "../../images/teams/parnelli.jpg"
+        "image": "/images/teams/parnelli.jpg"
     },
     {
         "id": "mcguire",
-        "image": "../../images/teams/mcguire.jpg"
+        "image": "/images/teams/mcguire.jpg"
     },
     {
         "id": "apollon",
-        "image": "../../images/teams/apollon.jpg"
+        "image": "/images/teams/apollon.jpg"
     },
     {
         "id": "boro",
-        "image": "../../images/teams/boro.png"
+        "image": "/images/teams/boro.png"
     },
     {
         "id": "brm",
-        "image": "../../images/teams/brm.jpg"
+        "image": "/images/teams/brm.jpg"
     },
     {
         "id": "lec",
-        "image": "../../images/teams/lec.jpg"
+        "image": "/images/teams/lec.jpg"
     },
     {
         "id": "kojima",
-        "image": "../../images/teams/kojima.jpg"
+        "image": "/images/teams/kojima.jpg"
     },
     {
         "id": "penske",
-        "image": "../../images/teams/penske.png"
+        "image": "/images/teams/penske.png"
     },
     {
         "id": "hesketh",
-        "image": "../../images/teams/hesketh.jpg"
+        "image": "/images/teams/hesketh.jpg"
     },
     {
         "id": "martini",
-        "image": "../../images/teams/martini.jpg"
+        "image": "/images/teams/martini.jpg"
     },
     {
         "id": "surtees",
-        "image": "../../images/teams/surtees.jpg"
+        "image": "/images/teams/surtees.jpg"
     },
     {
         "id": "kauhsen",
-        "image": "../../images/teams/kauhsen.png"
+        "image": "/images/teams/kauhsen.png"
     },
     {
         "id": "merzario",
-        "image": "../../images/teams/merzario.jpg"
+        "image": "/images/teams/merzario.jpg"
     },
     {
         "id": "rebaque",
-        "image": "../../images/teams/rebaque.jpg"
+        "image": "/images/teams/rebaque.jpg"
     },
     {
         "id": "wolf",
-        "image": "../../images/teams/wolf.jpeg"
+        "image": "/images/teams/wolf.jpeg"
     },
     {
         "id": "brabham-ford",
-        "image": "../../images/teams/brabham-ford.jpg"
+        "image": "/images/teams/brabham-ford.jpg"
     },
     {
         "id": "brabham-alfa_romeo",
-        "image": "../../images/teams/brabham-alfa_romeo.jpg"
+        "image": "/images/teams/brabham-alfa_romeo.jpg"
     },
     {
         "id": "shadow",
-        "image": "../../images/teams/shadow.jpg"
+        "image": "/images/teams/shadow.jpg"
     },
     {
         "id": "ensign",
-        "image": "../../images/teams/ensign.jpg"
+        "image": "/images/teams/ensign.jpg"
     },
     {
         "id": "fittipaldi",
-        "image": "../../images/teams/fittipaldi.jpg"
+        "image": "/images/teams/fittipaldi.jpg"
     },
     {
         "id": "theodore",
-        "image": "../../images/teams/theodore.jpg"
+        "image": "/images/teams/theodore.jpg"
     },
     {
         "id": "ats",
-        "image": "../../images/teams/ats.png"
+        "image": "/images/teams/ats.png"
     },
     {
         "id": "spirit",
-        "image": "../../images/teams/spirit.jpg"
+        "image": "/images/teams/spirit.jpg"
     },
     {
         "id": "toleman",
-        "image": "../../images/teams/toleman.jpg"
+        "image": "/images/teams/toleman.jpg"
     },
     {
         "id": "ram",
-        "image": "../../images/teams/ram.png"
+        "image": "/images/teams/ram.png"
     },
     {
         "id": "zakspeed",
-        "image": "../../images/teams/zakspeed.jpg"
+        "image": "/images/teams/zakspeed.jpg"
     },
     {
         "id": "rial",
-        "image": "../../images/teams/rial.jpg"
+        "image": "/images/teams/rial.jpg"
     },
     {
         "id": "life",
-        "image": "../../images/teams/life.png"
+        "image": "/images/teams/life.png"
     },
     {
         "id": "eurobrun",
-        "image": "../../images/teams/eurobrun.jpg"
+        "image": "/images/teams/eurobrun.jpg"
     },
     {
         "id": "osella",
-        "image": "../../images/teams/osella.png"
+        "image": "/images/teams/osella.png"
     },
     {
         "id": "onyx",
-        "image": "../../images/teams/onyx.jpg"
+        "image": "/images/teams/onyx.jpg"
     },
     {
         "id": "coloni",
-        "image": "../../images/teams/coloni.jpg"
+        "image": "/images/teams/coloni.jpg"
     },
     {
         "id": "ags",
-        "image": "../../images/teams/ags.jpg"
+        "image": "/images/teams/ags.jpg"
     },
     {
         "id": "lambo",
-        "image": "../../images/teams/lambo.jpg"
+        "image": "/images/teams/lambo.jpg"
     },
     {
         "id": "leyton",
-        "image": "../../images/teams/leyton.jpg"
+        "image": "/images/teams/leyton.jpg"
     },
     {
         "id": "brabham",
-        "image": "../../images/teams/brabham.jpeg"
+        "image": "/images/teams/brabham.jpeg"
     },
     {
         "id": "fondmetal",
-        "image": "../../images/teams/fondmetal.jpg"
+        "image": "/images/teams/fondmetal.jpg"
     },
     {
         "id": "dallara",
-        "image": "../../images/teams/dallara.jpg"
+        "image": "/images/teams/dallara.jpg"
     },
     {
         "id": "march",
-        "image": "../../images/teams/march.jpg"
+        "image": "/images/teams/march.jpg"
     },
     {
         "id": "team_lotus",
-        "image": "../../images/teams/lotus.jpg"
+        "image": "/images/teams/lotus.jpg"
     },
     {
         "id": "larrousse",
-        "image": "../../images/teams/larrousse.jpg"
+        "image": "/images/teams/larrousse.jpg"
     },
     {
         "id": "simtek",
-        "image": "../../images/teams/simtek.jpg"
+        "image": "/images/teams/simtek.jpg"
     },
     {
         "id": "pacific",
-        "image": "../../images/teams/pacific.jpg"
+        "image": "/images/teams/pacific.jpg"
     },
     {
         "id": "forti",
-        "image": "../../images/teams/forti.jpg"
+        "image": "/images/teams/forti.jpg"
     },
     {
         "id": "footwork",
-        "image": "../../images/teams/footwork.png"
+        "image": "/images/teams/footwork.png"
     },
     {
         "id": "ligier",
-        "image": "../../images/teams/ligier.jpg"
+        "image": "/images/teams/ligier.jpg"
     },
     {
         "id": "lola",
-        "image": "../../images/teams/lola.jpg"
+        "image": "/images/teams/lola.jpg"
     },
     {
         "id": "tyrrell",
-        "image": "../../images/teams/tyrrell.jpg"
+        "image": "/images/teams/tyrrell.jpg"
     },
     {
         "id": "stewart",
-        "image": "../../images/teams/stewart.jpg"
+        "image": "/images/teams/stewart.jpg"
     },
     {
         "id": "prost",
-        "image": "../../images/teams/prost.jpg"
+        "image": "/images/teams/prost.jpg"
     },
     {
         "id": "benetton",
-        "image": "../../images/teams/benetton.jpg"
+        "image": "/images/teams/benetton.jpg"
     },
     {
         "id": "arrows",
-        "image": "../../images/teams/arrows.jpg"
+        "image": "/images/teams/arrows.jpg"
     },
     {
         "id": "jaguar",
-        "image": "../../images/teams/jaguar.jpg"
+        "image": "/images/teams/jaguar.jpg"
     },
     {
         "id": "minardi",
-        "image": "../../images/teams/minardi.jpg"
+        "image": "/images/teams/minardi.jpg"
     },
     {
         "id": "jordan",
-        "image": "../../images/teams/jordan.jpg"
+        "image": "/images/teams/jordan.jpg"
     },
     {
         "id": "bar",
-        "image": "../../images/teams/bar.jpg"
+        "image": "/images/teams/bar.jpg"
     },
     {
         "id": "spyker_mf1",
-        "image": "../../images/teams/spyker.jpg"
+        "image": "/images/teams/spyker.jpg"
     },
     {
         "id": "mf1",
-        "image": "../../images/teams/mf1.png"
+        "image": "/images/teams/mf1.png"
     },
     {
         "id": "spyker",
-        "image": "../../images/teams/spyker.jpg"
+        "image": "/images/teams/spyker.jpg"
     },
     {
         "id": "super_aguri",
-        "image": "../../images/teams/super_aguri.jpg"
+        "image": "/images/teams/super_aguri.jpg"
     },
     {
         "id": "honda",
-        "image": "../../images/teams/honda_racing.png"
+        "image": "/images/teams/honda_racing.png"
     },
     {
         "id": "bmw_sauber",
-        "image": "../../images/teams/bmw_sauber.jpg"
+        "image": "/images/teams/bmw_sauber.jpg"
     },
     {
         "id": "toyota",
-        "image": "../../images/teams/toyota.jpg"
+        "image": "/images/teams/toyota.jpg"
     },
     {
         "id": "brawn",
-        "image": "../../images/teams/brawn.jpg"
+        "image": "/images/teams/brawn.jpg"
     },
     {
         "id": "lotus_racing",
-        "image": "../../images/teams/lotus.jpg"
+        "image": "/images/teams/lotus.jpg"
     },
     {
         "id": "virgin",
-        "image": "../../images/teams/virgin.jpg"
+        "image": "/images/teams/virgin.jpg"
     },
     {
         "id": "marussia",
-        "image": "../../images/teams/marussia.jpg"
+        "image": "/images/teams/marussia.jpg"
     },
     {
         "id": "hrt",
-        "image": "../../images/teams/hrt.jpg"
+        "image": "/images/teams/hrt.jpg"
     },
     {
         "id": "caterham",
-        "image": "../../images/teams/caterham.jpg"
+        "image": "/images/teams/caterham.jpg"
     },
     {
         "id": "haas",
-        "image": "../../images/teams/haas.jpg"
+        "image": "/images/teams/haas.jpg"
     },
     {
         "id": "racing_point",
-        "image": "../../images/teams/racingpoint.jpg"
+        "image": "/images/teams/racingpoint.jpg"
     },
     {
         "id": "renault",
-        "image": "../../images/teams/renault.jpg"
+        "image": "/images/teams/renault.jpg"
     },
     {
         "id": "alfa",
-        "image": "../../images/teams/alfa.png"
+        "image": "/images/teams/alfa.png"
     },
     {
         "id": "ferrari",
-        "image": "../../images/teams/ferrari.jpg"
+        "image": "/images/teams/ferrari.jpg"
     },
     {
         "id": "red_bull",
-        "image": "../../images/teams/redbull.jpg"
+        "image": "/images/teams/redbull.jpg"
     },
     {
         "id": "mercedes",
-        "image": "../images/teams/mercedes.jpg"
+        "image": "/images/teams/mercedes.jpg"
     },
     {
         "id": "lotus_f1",
-        "image": "../../images/teams/lotus.jpg"
+        "image": "/images/teams/lotus.jpg"
     },
     {
         "id": "mclaren",
-        "image": "../images/teams/mclaren.jpg"
+        "image": "/images/teams/mclaren.jpg"
     },
     {
         "id": "force_india",
-        "image": "../../images/teams/forceindia.jpg"
+        "image": "/images/teams/forceindia.jpg"
     },
     {
         "id": "sauber",
-        "image": "../../images/teams/sauber.jpg"
+        "image": "/images/teams/sauber.jpg"
     },
     {
         "id": "toro_rosso",
-        "image": "../../images/teams/tororosso.jpg"
+        "image": "/images/teams/tororosso.jpg"
     },
     {
         "id": "williams",
-        "image": "../../images/teams/williams.png"
+        "image": "/images/teams/williams.png"
     },
     {
         "id": "manor",
-        "image": "../../images/teams/marussia.jpg"
+        "image": "/images/teams/marussia.jpg"
     }
 ]

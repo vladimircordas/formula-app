@@ -11,7 +11,7 @@ class Team extends React.Component {
         this.state = {
             currentYear: ""
         }
-        console.log("team " + this.state.currentYear)
+    //    console.log("team " + this.state.currentYear)
     }
 
     componentDidMount() {
@@ -21,7 +21,7 @@ class Team extends React.Component {
     }
 
     getTeamDetails = (e) => {
-        let linkTo = '/teams/' + this.props.teamData.Constructor.constructorId;
+        let linkTo = '/formula-app/teams/' + this.props.teamData.Constructor.constructorId;
         history.push(linkTo);
     }
 

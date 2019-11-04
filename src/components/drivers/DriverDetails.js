@@ -30,7 +30,7 @@ export class DriverDetails extends Component {
     getDrivers = () => {
         var year = this.props.year;
         const id = this.props.match.params.driver
-        var url = `http://ergast.com/api/f1/${year}/drivers/${id}/driverStandings.json`;
+        var url = `https://ergast.com/api/f1/${year}/drivers/${id}/driverStandings.json`;
         $.get(url, (data) => {
 
             // console.log(data.MRData.StandingsTable.StandingsLists[0].DriverStandings[0].Driver)
@@ -78,14 +78,14 @@ export class DriverDetails extends Component {
 
         var driver = this.state.driver.MRData.StandingsTable.StandingsLists[0].DriverStandings[0];
         var driverid = driver.Driver.driverId;
-        var driversYear = '/drivers/' + this.state.year;
+    //    var driversYear = '/formula-app/drivers/' + this.state.year;
         return (
             <div className="wrapper">
                 <div className="row">
                     <div className="col s12">
                         <div className='breadCrumbsHolder'>
-                            <Link className="breadcrumb" to="/">Home</Link>
-                            <Link className="breadcrumb" to={driversYear}>Drivers</Link>
+                            <Link className="breadcrumb" to="/formula-app/">Home</Link>
+                            <Link className="breadcrumb" to="/formula-app/drivers">Drivers</Link>
                             <span className="breadcrumb">{driver.Driver.givenName} {driver.Driver.familyName} - {this.props.year}</span>
                         </div>
                     </div>
@@ -97,7 +97,7 @@ export class DriverDetails extends Component {
                                 <div className="card-image">
                                     <LazyLoadImage
                                         alt={driver.Driver.driverId}
-                                        src={`${this.driverImagesFunction(driverid)}`} // use normal <img> attributes as props 
+                                        src={process.env.PUBLIC_URL + `${this.driverImagesFunction(driverid)}`} // use normal <img> attributes as props 
                                     />
                                     <div className="card-content">
                                         <span>Name: <h5>{driver.Driver.givenName} {driver.Driver.familyName}</h5> </span>

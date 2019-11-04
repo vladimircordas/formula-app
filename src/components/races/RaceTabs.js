@@ -41,8 +41,8 @@ class ScrollableTabsButtonAuto extends React.Component {
   };
 
   render() {
-    console.log(this.props.raceid)
-    console.log(this.props.year)
+  //  console.log(this.props.raceid)
+  //  console.log(this.props.year)
     const { classes } = this.props;
     const { value } = this.state;
 

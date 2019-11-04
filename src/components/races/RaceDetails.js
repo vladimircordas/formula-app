@@ -2,8 +2,6 @@ import React from 'react';
 import * as $ from 'jquery';
 import { Link } from 'react-router-dom';
 import { LazyLoadImage } from 'react-lazy-load-image-component';
-import RaceResults from './RaceResults';
-import RaceQualifiers from './RaceQualifiers';
 import "materialize-css/dist/css/materialize.min.css";
 import ErrorImage from '../../images/safety-car.gif';
 import circuitImages from '../functions/circuitImages';
@@ -29,7 +27,7 @@ class RaceDetails extends React.Component {
     getRaces = () => {
         const year = this.props.year;
         const id = this.props.match.params.race;
-        var url = `http://ergast.com/api/f1/${year}/circuits/${id}.json`;
+        var url = `https://ergast.com/api/f1/${year}/circuits/${id}.json`;
         $.get(url, (data) => {
             this.setState({
                 race: data,
@@ -82,8 +80,8 @@ class RaceDetails extends React.Component {
                 <div className="row">
                     <div className="col s12">
                         <div className='breadCrumbsHolder'>
-                            <Link className="breadcrumb" to="/">Home</Link>
-                            <Link className="breadcrumb" to="/races">Races</Link>
+                            <Link className="breadcrumb" to="/formula-app/">Home</Link>
+                            <Link className="breadcrumb" to="/formula-app/races">Races</Link>
                             <span className="breadcrumb">{race.circuitName} - {this.props.year}</span>
                         </div>
                     </div>
@@ -96,7 +94,7 @@ class RaceDetails extends React.Component {
                                     <div className="card-image">
                                         <LazyLoadImage
                                             alt={race.circuitId}
-                                            src={`${this.circuitImagesFunction(circuitId)}`} // use normal <img> attributes as props 
+                                            src={process.env.PUBLIC_URL + `${this.circuitImagesFunction(circuitId)}`} // use normal <img> attributes as props 
                                         />
                                     </div>
                                     <div className="card-content">

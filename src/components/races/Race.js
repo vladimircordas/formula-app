@@ -11,7 +11,7 @@ class Race extends React.Component {
             currentYear: "",
             currentRace: ""
         }
-        console.log("race " + this.state.currentYear)
+    //    console.log("race " + this.state.currentYear)
     }
 
     componentDidMount() {
@@ -21,7 +21,7 @@ class Race extends React.Component {
     }
 
     getRaceDetails = (e) => {
-        let linkTo = '/races/' + e.target.dataset.itemid;
+        let linkTo = '/formula-app/races/' + e.target.dataset.itemid;
         history.push(linkTo);
     }
 

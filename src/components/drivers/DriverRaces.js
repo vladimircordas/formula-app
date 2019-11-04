@@ -2,6 +2,8 @@ import React from 'react';
 import * as $ from 'jquery';
 import { racePosition } from '../functions/racePosition';
 
+import Flag from 'react-world-flags'
+import { flags } from '../functions/flags';
 
 export class DriverRaces extends React.Component {
     static getDerivedStateFromProps(props, state) {
@@ -34,9 +36,9 @@ export class DriverRaces extends React.Component {
 
     getResults = () => {
         var year = this.state.year;
-        console.log(year);
+        // console.log(year);
         const id = this.props.driverid;
-        var url = `http://ergast.com/api/f1/${year}/drivers/${id}/results.json`;
+        var url = `https://ergast.com/api/f1/${year}/drivers/${id}/results.json`;
         $.get(url, (data) => {
             this.setState({
                 results: data,
@@ -80,7 +82,7 @@ export class DriverRaces extends React.Component {
                     <thead>
                         <tr>
                             <th>Position</th>
-                            <th>Name</th>
+                            <th>Race Name</th>
                             <th>Team</th>
                             <th>Grid</th>
                             <th>Place</th>
@@ -100,11 +102,19 @@ class Results extends React.Component {
     render() {
 
         const driver = this.props.resultData.Results[0].position;
+        const national = this.props.resultData.Circuit.Location.country;
         return (
             <React.Fragment>
                 <tr>
                     <td>{this.props.resultData.round}</td>
-                    <td>{this.props.resultData.raceName}</td>
+                    <td>
+                    <div className="waves-effect waves-light btn-flat no-coursor flagLeft">
+                        <div className="flagHolder">
+                                <Flag code={`${flags(national)}`} />
+                    
+                                </div>{this.props.resultData.raceName}
+                                </div>
+                    </td>
                     <td>{this.props.resultData.Results[0].Constructor.name}</td>
                     <td>{this.props.resultData.Results[0].grid}</td>
                     <td className={`${racePosition(driver)}`}>{this.props.resultData.Results[0].position}</td>

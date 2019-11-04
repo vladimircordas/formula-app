@@ -19,7 +19,7 @@ class Driver extends React.Component {
     }
 
     getDriverDetails = (e) => {
-        let linkTo = '/drivers/' + this.props.postData.Driver.driverId;
+        let linkTo = '/formula-app/drivers/' + this.props.postData.Driver.driverId;
         history.push(linkTo);
     }
 

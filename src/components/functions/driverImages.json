@@ -1,1904 +1,1907 @@
 [{
+        "id": "senna",
+        "image": "/images/drivers/senna.jpg"
+    }, {
         "id": "russell",
-        "image": "../../images/drivers/russell.jpg"
+        "image": "/images/drivers/russell.jpg"
     },
     {
         "id": "norris",
-        "image": "../../images/drivers/norris.jpeg"
+        "image": "/images/drivers/norris.jpeg"
     },
     {
         "id": "leclerc",
-        "image": "../../images/drivers/leclerc.jpg"
+        "image": "/images/drivers/leclerc.jpg"
     },
     {
         "id": "sirotkin",
-        "image": "../../images/drivers/sirotkin.jpg"
+        "image": "/images/drivers/sirotkin.jpg"
     },
     {
         "id": "brendon_hartley",
-        "image": "../../images/drivers/brendon_hartley.jpg"
+        "image": "/images/drivers/brendon_hartley.jpg"
     },
     {
         "id": "giovinazzi",
-        "image": "../../images/drivers/giovinazzi.jpg"
+        "image": "/images/drivers/giovinazzi.jpg"
     },
     {
         "id": "albon",
-        "image": "../../images/drivers/albon.jpg"
+        "image": "/images/drivers/albon.jpg"
     },
     {
         "id": "gasly",
-        "image": "../../images/drivers/gasly.jpg"
+        "image": "/images/drivers/gasly.jpg"
     },
     {
         "id": "stroll",
-        "image": "../../images/drivers/stroll.jpg"
+        "image": "/images/drivers/stroll.jpg"
     },
     {
         "id": "haryanto",
-        "image": "../../images/drivers/haryanto.jpg"
+        "image": "/images/drivers/haryanto.jpg"
     },
     {
         "id": "ocon",
-        "image": "../../images/drivers/ocon.jpg"
+        "image": "/images/drivers/ocon.jpg"
     },
     {
         "id": "vandoorne",
-        "image": "../../images/drivers/vandoorne.jpg"
+        "image": "/images/drivers/vandoorne.jpg"
     },
     {
         "id": "wehrlein",
-        "image": "../../images/drivers/wehrlein.jpg"
+        "image": "/images/drivers/wehrlein.jpg"
     },
     {
         "id": "jolyon_palmer",
-        "image": "../../images/drivers/jolyon_palmer.jpg"
+        "image": "/images/drivers/jolyon_palmer.jpg"
     },
     {
         "id": "max_verstappen",
-        "image": "../../images/drivers/max_verstappen.jpg"
+        "image": "/images/drivers/max_verstappen.jpg"
     },
     {
         "id": "rossi",
-        "image": "../../images/drivers/rossi.jpg"
+        "image": "/images/drivers/rossi.jpg"
     },
     {
         "id": "merhi",
-        "image": "../../images/drivers/merhi.jpg"
+        "image": "/images/drivers/merhi.jpg"
     },
     {
         "id": "sainz",
-        "image": "../../images/drivers/sainz.jpg"
+        "image": "/images/drivers/sainz.jpg"
     },
     {
         "id": "nasr",
-        "image": "../../images/drivers/nasr.jpg"
+        "image": "/images/drivers/nasr.jpg"
     },
     {
         "id": "lotterer",
-        "image": "../../images/drivers/lotterer.jpg"
+        "image": "/images/drivers/lotterer.jpg"
     },
     {
         "id": "stevens",
-        "image": "../../images/drivers/stevens.jpg"
+        "image": "/images/drivers/stevens.jpg"
     },
     {
         "id": "ericsson",
-        "image": "../../images/drivers/ericsson.jpg"
+        "image": "/images/drivers/ericsson.jpg"
     },
     {
         "id": "jules_bianchi",
-        "image": "../../images/drivers/jules_bianchi.jpg"
+        "image": "/images/drivers/jules_bianchi.jpg"
     },
     {
         "id": "kvyat",
-        "image": "../../images/drivers/kvyat.jpg"
+        "image": "/images/drivers/kvyat.jpg"
     },
     {
         "id": "kevin_magnussen",
-        "image": "../../images/drivers/kevin_magnussen.jpg"
+        "image": "/images/drivers/kevin_magnussen.jpg"
     },
     {
         "id": "ambrosio",
-        "image": "../../images/drivers/ambrosio.jpg"
+        "image": "/images/drivers/ambrosio.jpg"
     },
     {
         "id": "grassi",
-        "image": "../../images/drivers/grassi.jpeg"
+        "image": "/images/drivers/grassi.jpeg"
     },
     {
         "id": "bruno_senna",
-        "image": "../../images/drivers/bruno_senna.jpg"
+        "image": "/images/drivers/bruno_senna.jpg"
     },
     {
         "id": "chandhok",
-        "image": "../../images/drivers/chandhok.jpg"
+        "image": "/images/drivers/chandhok.jpg"
     },
     {
         "id": "petrov",
-        "image": "../../images/drivers/petrov.jpeg"
+        "image": "/images/drivers/petrov.jpeg"
     },
     {
         "id": "alguersuari",
-        "image": "../../images/drivers/alguersuari.jpg"
+        "image": "/images/drivers/alguersuari.jpg"
     },
     {
         "id": "kobayashi",
-        "image": "../../images/drivers/kobayashi.jpg"
+        "image": "/images/drivers/kobayashi.jpg"
     },
     {
         "id": "buemi",
-        "image": "../../images/drivers/buemi.jpg"
+        "image": "/images/drivers/buemi.jpg"
     },
     {
         "id": "bourdais",
-        "image": "../../images/drivers/bourdais.jpg"
+        "image": "/images/drivers/bourdais.jpg"
     },
     {
         "id": "piquet_jr",
-        "image": "../../images/drivers/piquet_jr.jpg"
+        "image": "/images/drivers/piquet_jr.jpg"
     },
     {
         "id": "davidson",
-        "image": "../../images/drivers/davidson.jpg"
+        "image": "/images/drivers/davidson.jpg"
     },
     {
         "id": "nakajima",
-        "image": "../../images/drivers/nakajima.jpg"
+        "image": "/images/drivers/nakajima.jpg"
     },
     {
         "id": "montagny",
-        "image": "../../images/drivers/montagny.jpg"
+        "image": "/images/drivers/montagny.jpg"
     },
     {
         "id": "yamamoto",
-        "image": "../../images/drivers/yamamoto.jpg"
+        "image": "/images/drivers/yamamoto.jpg"
     },
     {
         "id": "ide",
-        "image": "../../images/drivers/ide.jpg"
+        "image": "/images/drivers/ide.jpg"
     },
     {
         "id": "speed",
-        "image": "../../images/drivers/speed.jpg"
+        "image": "/images/drivers/speed.jpg"
     },
     {
         "id": "kubica",
-        "image": "../../images/drivers/kubica.jpg"
+        "image": "/images/drivers/kubica.jpg"
     },
     {
         "id": "doornbos",
-        "image": "../../images/drivers/doornbos.jpg"
+        "image": "/images/drivers/doornbos.jpg"
     },
     {
         "id": "liuzzi",
-        "image": "../../images/drivers/liuzzi.jpg"
+        "image": "/images/drivers/liuzzi.jpg"
     },
     {
         "id": "albers",
-        "image": "../../images/drivers/albers.jpg"
+        "image": "/images/drivers/albers.jpg"
     },
     {
         "id": "karthikeyan",
-        "image": "../../images/drivers/karthikeyan.jpg"
+        "image": "/images/drivers/karthikeyan.jpg"
     },
     {
         "id": "friesacher",
-        "image": "../../images/drivers/friesacher.jpg"
+        "image": "/images/drivers/friesacher.jpg"
     },
     {
         "id": "monteiro",
-        "image": "../../images/drivers/monteiro.jpg"
+        "image": "/images/drivers/monteiro.jpg"
     },
     {
         "id": "bruni",
-        "image": "../../images/drivers/bruni.jpg"
+        "image": "/images/drivers/bruni.jpg"
     },
     {
         "id": "pantano",
-        "image": "../../images/drivers/pantano.jpg"
+        "image": "/images/drivers/pantano.jpg"
     },
     {
         "id": "glock",
-        "image": "../../images/drivers/glock.jpg"
+        "image": "/images/drivers/glock.jpg"
     },
     {
         "id": "klien",
-        "image": "../../images/drivers/klien.jpg"
+        "image": "/images/drivers/klien.jpg"
     },
     {
         "id": "baumgartner",
-        "image": "../../images/drivers/baumgartner.jpg"
+        "image": "/images/drivers/baumgartner.jpg"
     },
     {
         "id": "kiesa",
-        "image": "../../images/drivers/kiesa.jpg"
+        "image": "/images/drivers/kiesa.jpg"
     },
     {
         "id": "pizzonia",
-        "image": "../../images/drivers/pizzonia.jpg"
+        "image": "/images/drivers/pizzonia.jpg"
     },
     {
         "id": "wilson",
-        "image": "../../images/drivers/wilson.jpg"
+        "image": "/images/drivers/wilson.jpg"
     },
     {
         "id": "firman",
-        "image": "../../images/drivers/firman.jpg"
+        "image": "/images/drivers/firman.jpg"
     },
     {
         "id": "matta",
-        "image": "../../images/drivers/matta.jpg"
+        "image": "/images/drivers/matta.jpg"
     },
     {
         "id": "mcnish",
-        "image": "../../images/drivers/mcnish.jpg"
+        "image": "/images/drivers/mcnish.jpg"
     },
     {
         "id": "sato",
-        "image": "../../images/drivers/sato.jpg"
+        "image": "/images/drivers/sato.jpg"
     },
     {
         "id": "yoong",
-        "image": "../../images/drivers/yoong.jpg"
+        "image": "/images/drivers/yoong.jpg"
     },
     {
         "id": "enge",
-        "image": "../../images/drivers/enge.jpg"
+        "image": "/images/drivers/enge.jpg"
     },
     {
         "id": "bernoldi",
-        "image": "../../images/drivers/bernoldi.jpg"
+        "image": "/images/drivers/bernoldi.jpg"
     },
     {
         "id": "montoya",
-        "image": "../../images/drivers/montoya.jpg"
+        "image": "/images/drivers/montoya.jpg"
     },
     {
         "id": "burti",
-        "image": "../../images/drivers/burti.jpg"
+        "image": "/images/drivers/burti.jpg"
     },
     {
         "id": "mazzacane",
-        "image": "../../images/drivers/mazzacane.jpg"
+        "image": "/images/drivers/mazzacane.jpg"
     },
     {
         "id": "heidfeld",
-        "image": "../../images/drivers/heidfeld.jpg"
+        "image": "/images/drivers/heidfeld.jpg"
     },
     {
         "id": "zonta",
-        "image": "../../images/drivers/zonta.jpg"
+        "image": "/images/drivers/zonta.jpg"
     },
     {
         "id": "rosa",
-        "image": "../../images/drivers/rosa.jpg"
+        "image": "/images/drivers/rosa.jpg"
     },
     {
         "id": "gene",
-        "image": "../../images/drivers/gene.jpg"
+        "image": "/images/drivers/gene.jpg"
     },
     {
         "id": "takagi",
-        "image": "../../images/drivers/takagi.jpg"
+        "image": "/images/drivers/takagi.jpg"
     },
     {
         "id": "tuero",
-        "image": "../../images/drivers/tuero.jpg"
+        "image": "/images/drivers/tuero.jpg"
     },
     {
         "id": "marques",
-        "image": "../../images/drivers/marques.jpg"
+        "image": "/images/drivers/marques.jpg"
     },
     {
         "id": "fontana",
-        "image": "../../images/drivers/fontana.jpeg"
+        "image": "/images/drivers/fontana.jpeg"
     },
     {
         "id": "nakano",
-        "image": "../../images/drivers/nakano.jpg"
+        "image": "/images/drivers/nakano.jpg"
     },
     {
         "id": "trulli",
-        "image": "../../images/drivers/trulli.jpg"
+        "image": "/images/drivers/trulli.jpg"
     },
     {
         "id": "wurz",
-        "image": "../../images/drivers/wurz.jpg"
+        "image": "/images/drivers/wurz.jpg"
     },
     {
         "id": "ralf_schumacher",
-        "image": "../../images/drivers/ralf_schumacher.jpg"
+        "image": "/images/drivers/ralf_schumacher.jpg"
     },
     {
         "id": "villeneuve",
-        "image": "../../images/drivers/villeneuve.jpg"
+        "image": "/images/drivers/villeneuve.jpg"
     },
     {
         "id": "lavaggi",
-        "image": "../../images/drivers/lavaggi.jpg"
+        "image": "/images/drivers/lavaggi.jpg"
     },
     {
         "id": "fisichella",
-        "image": "../../images/drivers/fisichella.jpg"
+        "image": "/images/drivers/fisichella.jpg"
     },
     {
         "id": "rosset",
-        "image": "../../images/drivers/rosset.jpg"
+        "image": "/images/drivers/rosset.jpg"
     },
     {
         "id": "magnussen",
-        "image": "../../images/drivers/magnussen.jpg"
+        "image": "/images/drivers/magnussen.jpg"
     },
     {
         "id": "schiattarella",
-        "image": "../../images/drivers/schiattarella.jpg"
+        "image": "/images/drivers/schiattarella.jpg"
     },
     {
         "id": "montermini",
-        "image": "../../images/drivers/montermini.jpg"
+        "image": "/images/drivers/montermini.jpg"
     },
     {
         "id": "inoue",
-        "image": "../../images/drivers/inoue.jpg"
+        "image": "/images/drivers/inoue.jpg"
     },
     {
         "id": "papis",
-        "image": "../../images/drivers/papis.jpg"
+        "image": "/images/drivers/papis.jpg"
     },
     {
         "id": "diniz",
-        "image": "../../images/drivers/diniz.jpg"
+        "image": "/images/drivers/diniz.jpg"
     },
     {
         "id": "boullion",
-        "image": "../../images/drivers/boullion.jpg"
+        "image": "/images/drivers/boullion.jpg"
     },
     {
         "id": "salo",
-        "image": "../../images/drivers/salo.jpg"
+        "image": "/images/drivers/salo.jpg"
     },
     {
         "id": "gounon",
-        "image": "../../images/drivers/gounon.jpg"
+        "image": "/images/drivers/gounon.jpg"
     },
     {
         "id": "beretta",
-        "image": "../../images/drivers/beretta.jpg"
+        "image": "/images/drivers/beretta.jpg"
     },
     {
         "id": "frentzen",
-        "image": "../../images/drivers/frentzen.jpg"
+        "image": "/images/drivers/frentzen.jpg"
     },
     {
         "id": "panis",
-        "image": "../../images/drivers/panis.jpg"
+        "image": "/images/drivers/panis.jpg"
     },
     {
         "id": "verstappen",
-        "image": "../../images/drivers/verstappen.jpg"
+        "image": "/images/drivers/verstappen.jpg"
     },
     {
         "id": "coulthard",
-        "image": "../../images/drivers/coulthard.jpg"
+        "image": "/images/drivers/coulthard.jpg"
     },
     {
         "id": "lamy",
-        "image": "../../images/drivers/lamy.jpg"
+        "image": "/images/drivers/lamy.jpg"
     },
     {
         "id": "badoer",
-        "image": "../../images/drivers/badoer.jpg"
+        "image": "/images/drivers/badoer.jpg"
     },
     {
         "id": "irvine",
-        "image": "../../images/drivers/irvine.jpg"
+        "image": "/images/drivers/irvine.jpg"
     },
     {
         "id": "zanardi",
-        "image": "../../images/drivers/zanardi.jpg"
+        "image": "/images/drivers/zanardi.jpg"
     },
     {
         "id": "barbazza",
-        "image": "../../images/drivers/barbazza.jpg"
+        "image": "/images/drivers/barbazza.jpg"
     },
     {
         "id": "barrichello",
-        "image": "../../images/drivers/barrichello.jpg"
+        "image": "/images/drivers/barrichello.jpg"
     },
     {
         "id": "blundell",
-        "image": "../../images/drivers/blundell.jpg"
+        "image": "/images/drivers/blundell.jpg"
     },
     {
         "id": "herbert",
-        "image": "../../images/drivers/herbert.jpg"
+        "image": "/images/drivers/herbert.jpg"
     },
     {
         "id": "damon_hill",
-        "image": "../../images/drivers/damon_hill.jpg"
+        "image": "/images/drivers/damon_hill.jpg"
     },
     {
         "id": "naspetti",
-        "image": "../../images/drivers/naspetti.jpg"
+        "image": "/images/drivers/naspetti.jpg"
     },
     {
         "id": "poele",
-        "image": "../../images/drivers/poele.jpg"
+        "image": "/images/drivers/poele.jpg"
     },
     {
         "id": "belmondo",
-        "image": "../../images/drivers/belmondo.jpg"
+        "image": "/images/drivers/belmondo.jpg"
     },
     {
         "id": "katayama",
-        "image": "../../images/drivers/katayama.jpg"
+        "image": "/images/drivers/katayama.jpg"
     }, {
         "id": "grouillard",
-        "image": "../../images/drivers/grouillard.jpg"
+        "image": "/images/drivers/grouillard.jpg"
     },
     {
         "id": "fittipaldi",
-        "image": "../../images/drivers/fittipaldi.jpg"
+        "image": "/images/drivers/fittipaldi.jpg"
     }, {
         "id": "wendlinger",
-        "image": "../../images/drivers/wendlinger.jpg"
+        "image": "/images/drivers/wendlinger.jpg"
     },
     {
         "id": "tarquini",
-        "image": "../../images/drivers/tarquini.jpg"
+        "image": "/images/drivers/tarquini.jpg"
     },
     {
         "id": "comas",
-        "image": "../../images/drivers/comas.jpg"
+        "image": "/images/drivers/comas.jpg"
     },
 
     {
         "id": "morbidelli",
-        "image": "../../images/drivers/morbidelli.jpg"
+        "image": "/images/drivers/morbidelli.jpg"
     },
     {
         "id": "bailey",
-        "image": "../../images/drivers/bailey.jpg"
+        "image": "/images/drivers/bailey.jpg"
     },
     {
         "id": "hakkinen",
-        "image": "../../images/drivers/hakkinen.jpg"
+        "image": "/images/drivers/hakkinen.jpg"
     },
     {
         "id": "michael_schumacher",
-        "image": "../../images/drivers/michael_schumacher.jpeg"
+        "image": "/images/drivers/michael_schumacher.jpeg"
     },
     {
         "id": "gachot",
-        "image": "../../images/drivers/gachot.jpg"
+        "image": "/images/drivers/gachot.jpg"
     },
     {
         "id": "schneider",
-        "image": "../../images/drivers/schneider.jpg"
+        "image": "/images/drivers/schneider.jpg"
     },
     {
         "id": "lehto",
-        "image": "../../images/drivers/lehto.jpg"
+        "image": "/images/drivers/lehto.jpg"
     },
     {
         "id": "barilla",
-        "image": "../../images/drivers/barilla.jpg"
+        "image": "/images/drivers/barilla.jpg"
     },
     {
         "id": "pirro",
-        "image": "../../images/drivers/pirro.jpg"
+        "image": "/images/drivers/pirro.jpg"
     },
     {
         "id": "foitek",
-        "image": "../../images/drivers/foitek.jpg"
+        "image": "/images/drivers/foitek.jpg"
     },
     {
         "id": "donnelly",
-        "image": "../../images/drivers/donnelly.jpg"
+        "image": "/images/drivers/donnelly.jpg"
     },
     {
         "id": "larini",
-        "image": "../../images/drivers/larini.jpeg"
+        "image": "/images/drivers/larini.jpeg"
     },
     {
         "id": "gugelmin",
-        "image": "../../images/drivers/gugelmin.jpg"
+        "image": "/images/drivers/gugelmin.jpg"
     },
     {
         "id": "bernard",
-        "image": "../../images/drivers/bernard.jpg"
+        "image": "/images/drivers/bernard.jpg"
     },
     {
         "id": "suzuki",
-        "image": "../../images/drivers/suzuki.jpg"
+        "image": "/images/drivers/suzuki.jpg"
     },
     {
         "id": "alesi",
-        "image": "../../images/drivers/alesi.jpg"
+        "image": "/images/drivers/alesi.jpg"
     },
     {
         "id": "modena",
-        "image": "../../images/drivers/modena.jpg"
+        "image": "/images/drivers/modena.jpg"
     },
     {
         "id": "forini",
-        "image": "../../images/drivers/forini.jpg"
+        "image": "/images/drivers/forini.jpg"
     },
     {
         "id": "campos",
-        "image": "../../images/drivers/campos.jpg"
+        "image": "/images/drivers/campos.jpg"
     },
     {
         "id": "fabre",
-        "image": "../../images/drivers/fabre.jpg"
+        "image": "/images/drivers/fabre.jpg"
     },
     {
         "id": "dalmas",
-        "image": "../../images/drivers/dalmas.jpg"
+        "image": "/images/drivers/dalmas.jpg"
     },
     {
         "id": "moreno",
-        "image": "../../images/drivers/moreno.jpg"
+        "image": "/images/drivers/moreno.jpg"
     },
     {
         "id": "capelli",
-        "image": "../../images/drivers/capelli.jpeg"
+        "image": "/images/drivers/capelli.jpeg"
     },
     {
         "id": "satoru_nakajima",
-        "image": "../../images/drivers/satoru_nakajima.jpg"
+        "image": "/images/drivers/satoru_nakajima.jpg"
     },
     {
         "id": "caffi",
-        "image": "../../images/drivers/caffi.jpg"
+        "image": "/images/drivers/caffi.jpg"
     },
     {
         "id": "nannini",
-        "image": "../../images/drivers/nannini.jpg"
+        "image": "/images/drivers/nannini.jpg"
     },
     {
         "id": "danner",
-        "image": "../../images/drivers/danner.jpg"
+        "image": "/images/drivers/danner.jpg"
     },
     {
         "id": "streiff",
-        "image": "../../images/drivers/streiff.jpg"
+        "image": "/images/drivers/streiff.jpg"
     },
     {
         "id": "dumfries",
-        "image": "../../images/drivers/dumfries.jpg"
+        "image": "/images/drivers/dumfries.jpg"
     },
     {
         "id": "palmer",
-        "image": "../../images/drivers/palmer.jpg"
+        "image": "/images/drivers/palmer.jpg"
     },
     {
         "id": "alliot",
-        "image": "../../images/drivers/alliot.jpg"
+        "image": "/images/drivers/alliot.jpg"
     },
     {
         "id": "martini",
-        "image": "../../images/drivers/martini.jpg"
+        "image": "/images/drivers/martini.jpg"
     },
     {
         "id": "rothengatter",
-        "image": "../../images/drivers/rothengatter.jpg"
+        "image": "/images/drivers/rothengatter.jpg"
     },
     {
         "id": "brundle",
-        "image": "../../images/drivers/brundle.jpg"
+        "image": "/images/drivers/brundle.jpg"
     },
     {
         "id": "berger",
-        "image": "../../images/drivers/berger.jpg"
+        "image": "/images/drivers/berger.jpg"
     },
     {
         "id": "gartner",
-        "image": "../../images/drivers/gartner.jpg"
+        "image": "/images/drivers/gartner.jpg"
     },
     {
         "id": "fabi",
-        "image": "../../images/drivers/fabi.jpg"
+        "image": "/images/drivers/fabi.jpg"
     },
     {
         "id": "acheson",
-        "image": "../../images/drivers/acheson.jpg"
+        "image": "/images/drivers/acheson.jpg"
     },
     {
         "id": "guerrero",
-        "image": "../../images/drivers/guerrero.jpg"
+        "image": "/images/drivers/guerrero.jpg"
     },
     {
         "id": "ghinzani",
-        "image": "../../images/drivers/ghinzani.jpg"
+        "image": "/images/drivers/ghinzani.jpg"
     },
     {
         "id": "corrado_fabi",
-        "image": "../../images/drivers/corrado_fabi.jpg"
+        "image": "/images/drivers/corrado_fabi.jpg"
     },
     {
         "id": "johansson",
-        "image": "../../images/drivers/johansson.jpg"
+        "image": "/images/drivers/johansson.jpg"
     },
     {
         "id": "boutsen",
-        "image": "../../images/drivers/boutsen.jpg"
+        "image": "/images/drivers/boutsen.jpg"
     },
     {
         "id": "cecotto",
-        "image": "../../images/drivers/cecotto.jpg"
+        "image": "/images/drivers/cecotto.jpg"
     },
     {
         "id": "sullivan",
-        "image": "../../images/drivers/sullivan.jpg"
+        "image": "/images/drivers/sullivan.jpg"
     },
     {
         "id": "warwick",
-        "image": "../../images/drivers/warwick.jpg"
+        "image": "/images/drivers/warwick.jpg"
     },
     {
         "id": "boesel",
-        "image": "../../images/drivers/boesel.jpg"
+        "image": "/images/drivers/boesel.jpg"
     },
     {
         "id": "borgudd",
-        "image": "../../images/drivers/borgudd.jpg"
+        "image": "/images/drivers/borgudd.jpg"
     },
     {
         "id": "baldi",
-        "image": "../../images/drivers/baldi.jpg"
+        "image": "/images/drivers/baldi.jpg"
     },
     {
         "id": "manfred_winkelhock",
-        "image": "../../images/drivers/manfred_winkelhock.jpg"
+        "image": "/images/drivers/manfred_winkelhock.jpg"
     },
     {
         "id": "henton",
-        "image": "../../images/drivers/henton.jpg"
+        "image": "/images/drivers/henton.jpg"
     },
     {
         "id": "alboreto",
-        "image": "../../images/drivers/alboreto.jpg"
+        "image": "/images/drivers/alboreto.jpg"
     },
     {
         "id": "serra",
-        "image": "../../images/drivers/serra.jpg"
+        "image": "/images/drivers/serra.jpg"
     },
     {
         "id": "stohr",
-        "image": "../../images/drivers/stohr.jpg"
+        "image": "/images/drivers/stohr.jpg"
     },
     {
         "id": "salazar",
-        "image": "../../images/drivers/salazar.jpg"
+        "image": "/images/drivers/salazar.jpg"
     },
     {
         "id": "cesaris",
-        "image": "../../images/drivers/cesaris.jpg"
+        "image": "/images/drivers/cesaris.jpg"
     },
     {
         "id": "prost",
-        "image": "../../images/drivers/prost.jpg"
+        "image": "/images/drivers/prost.jpg"
     },
     {
         "id": "mansell",
-        "image": "../../images/drivers/mansell.jpg"
+        "image": "/images/drivers/mansell.jpg"
     },
     {
         "id": "cheever",
-        "image": "../../images/drivers/cheever.jpg"
+        "image": "/images/drivers/cheever.jpg"
     },
     {
         "id": "surer",
-        "image": "../../images/drivers/surer.jpg"
+        "image": "/images/drivers/surer.jpg"
     },
     {
         "id": "lammers",
-        "image": "../../images/drivers/lammers.jpeg"
+        "image": "/images/drivers/lammers.jpeg"
     },
     {
         "id": "lees",
-        "image": "../../images/drivers/lees.jpg"
+        "image": "/images/drivers/lees.jpg"
     },
     {
         "id": "zunino",
-        "image": "../../images/drivers/zunino.jpg"
+        "image": "/images/drivers/zunino.jpg"
     },
     {
         "id": "angelis",
-        "image": "../../images/drivers/angelis.jpg"
+        "image": "/images/drivers/angelis.jpg"
     },
     {
         "id": "keke_rosberg",
-        "image": "../../images/drivers/keke_rosberg.jpg"
+        "image": "/images/drivers/keke_rosberg.jpg"
     },
     {
         "id": "piquet",
-        "image": "../../images/drivers/piquet.jpg"
+        "image": "/images/drivers/piquet.jpg"
     },
     {
         "id": "arnoux",
-        "image": "../../images/drivers/arnoux.jpg"
+        "image": "/images/drivers/arnoux.jpg"
     },
     {
         "id": "giacomelli",
-        "image": "../../images/drivers/giacomelli.jpg"
+        "image": "/images/drivers/giacomelli.jpg"
     },
     {
         "id": "rebaque",
-        "image": "../../images/drivers/rebaque.jpg"
+        "image": "/images/drivers/rebaque.jpg"
     },
     {
         "id": "daly",
-        "image": "../../images/drivers/daly.jpg"
+        "image": "/images/drivers/daly.jpg"
     },
     {
         "id": "jabouille",
-        "image": "../../images/drivers/jabouille.jpg"
+        "image": "/images/drivers/jabouille.jpg"
     },
     {
         "id": "pironi",
-        "image": "../../images/drivers/pironi.jpg"
+        "image": "/images/drivers/pironi.jpg"
     },
     {
         "id": "gilles_villeneuve",
-        "image": "../../images/drivers/gilles_villeneuve.jpg"
+        "image": "/images/drivers/gilles_villeneuve.jpg"
     },
     {
         "id": "binder",
-        "image": "../../images/drivers/binder.jpg"
+        "image": "/images/drivers/binder.jpg"
     },
     {
         "id": "ribeiro",
-        "image": "../../images/drivers/ribeiro.jpg"
+        "image": "/images/drivers/ribeiro.jpg"
     },
     {
         "id": "ongais",
-        "image": "../../images/drivers/ongais.jpg"
+        "image": "/images/drivers/ongais.jpg"
     },
     {
         "id": "hoffmann",
-        "image": "../../images/drivers/hoffmann.jpg"
+        "image": "/images/drivers/hoffmann.jpg"
     },
     {
         "id": "schuppan",
-        "image": "../../images/drivers/schuppan.jpg"
+        "image": "/images/drivers/schuppan.jpg"
     },
     {
         "id": "neve",
-        "image": "../../images/drivers/neve.jpg"
+        "image": "/images/drivers/neve.jpg"
     },
     {
         "id": "keegan",
-        "image": "../../images/drivers/keegan.jpg"
+        "image": "/images/drivers/keegan.jpg"
     },
     {
         "id": "patrese",
-        "image": "../../images/drivers/patrese.jpg"
+        "image": "/images/drivers/patrese.jpg"
     },
     {
         "id": "tambay",
-        "image": "../../images/drivers/tambay.jpg"
+        "image": "/images/drivers/tambay.jpg"
     },
     {
         "id": "leclere",
-        "image": "../../images/drivers/leclere.jpg"
+        "image": "/images/drivers/leclere.jpg"
     },
     {
         "id": "zorzi",
-        "image": "../../images/drivers/zorzi.jpg"
+        "image": "/images/drivers/zorzi.jpg"
     },
     {
         "id": "takahara",
-        "image": "../../images/drivers/takahara.jpg"
+        "image": "/images/drivers/takahara.jpg"
     },
     {
         "id": "perkins",
-        "image": "../../images/drivers/perkins.jpg"
+        "image": "/images/drivers/perkins.jpg"
     },
     {
         "id": "nilsson",
-        "image": "../../images/drivers/nilsson.jpg"
+        "image": "/images/drivers/nilsson.jpg"
     },
     {
         "id": "palm",
-        "image": "../../images/drivers/palm.jpg"
+        "image": "/images/drivers/palm.jpg"
     },
     {
         "id": "lunger",
-        "image": "../../images/drivers/lunger.jpg"
+        "image": "/images/drivers/lunger.jpg"
     },
     {
         "id": "evans",
-        "image": "../../images/drivers/evans.jpg"
+        "image": "/images/drivers/evans.jpg"
     },
     {
         "id": "ertl",
-        "image": "../../images/drivers/ertl.jpg"
+        "image": "/images/drivers/ertl.jpg"
     },
     {
         "id": "watson",
-        "image": "../../images/drivers/watson.jpg"
+        "image": "/images/drivers/watson.jpg"
     },
     {
         "id": "lombardi",
-        "image": "../../images/drivers/lombardi.jpg"
+        "image": "/images/drivers/lombardi.jpg"
     },
     {
         "id": "brise",
-        "image": "../../images/drivers/brise.jpg"
+        "image": "/images/drivers/brise.jpg"
     },
     {
         "id": "jones",
-        "image": "../../images/drivers/jones.jpg"
+        "image": "/images/drivers/jones.jpg"
     },
     {
         "id": "laffite",
-        "image": "../../images/drivers/laffite.jpg"
+        "image": "/images/drivers/laffite.jpg"
     },
     {
         "id": "opel",
-        "image": "../../images/drivers/opel.jpg"
+        "image": "/images/drivers/opel.jpg"
     },
     {
         "id": "belso",
-        "image": "../../images/drivers/belso.jpg"
+        "image": "/images/drivers/belso.jpg"
     },
     {
         "id": "brambilla",
-        "image": "../../images/drivers/brambilla.jpg"
+        "image": "/images/drivers/brambilla.jpg"
     },
     {
         "id": "pryce",
-        "image": "../../images/drivers/pryce.jpg"
+        "image": "/images/drivers/pryce.jpg"
     },
     {
         "id": "stuck",
-        "image": "../../images/drivers/stuck.jpg"
+        "image": "/images/drivers/stuck.jpg"
     },
     {
         "id": "jarier",
-        "image": "../../images/drivers/jarier.jpg"
+        "image": "/images/drivers/jarier.jpg"
     },
     {
         "id": "mass",
-        "image": "../../images/drivers/mass.jpg"
+        "image": "/images/drivers/mass.jpg"
     },
     {
         "id": "wilson_fittipaldi",
-        "image": "../../images/drivers/wilson_fittipaldi.jpg"
+        "image": "/images/drivers/wilson_fittipaldi.jpg"
     },
     {
         "id": "follmer",
-        "image": "../../images/drivers/follmer.jpg"
+        "image": "/images/drivers/follmer.jpg"
     },
     {
         "id": "hunt",
-        "image": "../../images/drivers/hunt.jpg"
+        "image": "/images/drivers/hunt.jpg"
     },
     {
         "id": "scheckter",
-        "image": "../../images/drivers/scheckter.jpg"
+        "image": "/images/drivers/scheckter.jpg"
     },
     {
         "id": "walker",
-        "image": "../../images/drivers/walker.jpg"
+        "image": "/images/drivers/walker.jpg"
     },
     {
         "id": "beuttler",
-        "image": "../../images/drivers/beuttler.jpg"
+        "image": "/images/drivers/beuttler.jpg"
     },
     {
         "id": "depailler",
-        "image": "../../images/drivers/depailler.jpg"
+        "image": "/images/drivers/depailler.jpg"
     },
     {
         "id": "lauda",
-        "image": "../../images/drivers/lauda.jpg"
+        "image": "/images/drivers/lauda.jpg"
     },
     {
         "id": "merzario",
-        "image": "../../images/drivers/merzario.jpg"
+        "image": "/images/drivers/merzario.jpg"
     },
     {
         "id": "pace",
-        "image": "../../images/drivers/pace.jpg"
+        "image": "/images/drivers/pace.jpg"
     },
     {
         "id": "reutemann",
-        "image": "../../images/drivers/reutemann.jpg"
+        "image": "/images/drivers/reutemann.jpg"
     },
     {
         "id": "marko",
-        "image": "../../images/drivers/marko.jpg"
+        "image": "/images/drivers/marko.jpg"
     },
     {
         "id": "galli",
-        "image": "../../images/drivers/galli.jpg"
+        "image": "/images/drivers/galli.jpg"
     },
     {
         "id": "lennep",
-        "image": "../../images/drivers/lennep.jpg"
+        "image": "/images/drivers/lennep.jpg"
     },
     {
         "id": "donohue",
-        "image": "../../images/drivers/donohue.jpg"
+        "image": "/images/drivers/donohue.jpg"
     },
     {
         "id": "ganley",
-        "image": "../../images/drivers/ganley.jpg"
+        "image": "/images/drivers/ganley.jpg"
     },
     {
         "id": "schenken",
-        "image": "../../images/drivers/schenken.jpg"
+        "image": "/images/drivers/schenken.jpg"
     },
     {
         "id": "adamich",
-        "image": "../../images/drivers/adamich.jpg"
+        "image": "/images/drivers/adamich.jpg"
     },
     {
         "id": "peterson",
-        "image": "../../images/drivers/peterson.jpg"
+        "image": "/images/drivers/peterson.jpg"
     },
     {
         "id": "gethin",
-        "image": "../../images/drivers/gethin.jpg"
+        "image": "/images/drivers/gethin.jpg"
     },
     {
         "id": "cevert",
-        "image": "../../images/drivers/cevert.jpg"
+        "image": "/images/drivers/cevert.jpg"
     },
     {
         "id": "giunti",
-        "image": "../../images/drivers/giunti.jpg"
+        "image": "/images/drivers/giunti.jpg"
     },
     {
         "id": "wisell",
-        "image": "../../images/drivers/wisell.jpg"
+        "image": "/images/drivers/wisell.jpg"
     },
     {
         "id": "stommelen",
-        "image": "../../images/drivers/stommelen.jpg"
+        "image": "/images/drivers/stommelen.jpg"
     },
     {
         "id": "emerson_fittipaldi",
-        "image": "../../images/drivers/emerson_fittipaldi.jpg"
+        "image": "/images/drivers/emerson_fittipaldi.jpg"
     },
     {
         "id": "regazzoni",
-        "image": "../../images/drivers/regazzoni.jpg"
+        "image": "/images/drivers/regazzoni.jpg"
     },
     {
         "id": "rooyen",
-        "image": "../../images/drivers/rooyen.jpg"
+        "image": "/images/drivers/rooyen.jpg"
     },
     {
         "id": "cordts",
-        "image": "../../images/drivers/cordts.jpg"
+        "image": "/images/drivers/cordts.jpg"
     },
     {
         "id": "bell",
-        "image": "../../images/drivers/bell.jpg"
+        "image": "/images/drivers/bell.jpg"
     },
     {
         "id": "mario_andretti",
-        "image": "../../images/drivers/mario_andretti.jpg"
+        "image": "/images/drivers/mario_andretti.jpg"
     },
     {
         "id": "eaton",
-        "image": "../../images/drivers/eaton.jpg"
+        "image": "/images/drivers/eaton.jpg"
     },
     {
         "id": "klerk",
-        "image": "../../images/drivers/klerk.jpg"
+        "image": "/images/drivers/klerk.jpg"
     },
     {
         "id": "brack",
-        "image": "../../images/drivers/brack.jpg"
+        "image": "/images/drivers/brack.jpg"
     },
     {
         "id": "miles",
-        "image": "../../images/drivers/miles.jpg"
+        "image": "/images/drivers/miles.jpg"
     },
     {
         "id": "tingle",
-        "image": "../../images/drivers/tingle.jpg"
+        "image": "/images/drivers/tingle.jpg"
     },
     {
         "id": "lovely",
-        "image": "../../images/drivers/lovely.jpg"
+        "image": "/images/drivers/lovely.jpg"
     },
     {
         "id": "moser",
-        "image": "../../images/drivers/moser.jpg"
+        "image": "/images/drivers/moser.jpg"
     },
     {
         "id": "pretorius",
-        "image": "../../images/drivers/pretorius.jpg"
+        "image": "/images/drivers/pretorius.jpg"
     },
     {
         "id": "ahrens",
-        "image": "../../images/drivers/ahrens.jpg"
+        "image": "/images/drivers/ahrens.jpg"
     },
     {
         "id": "hahne",
-        "image": "../../images/drivers/hahne.jpg"
+        "image": "/images/drivers/hahne.jpg"
     },
     {
         "id": "pescarolo",
-        "image": "../../images/drivers/pescarolo.jpg"
+        "image": "/images/drivers/pescarolo.jpg"
     },
     {
         "id": "courage",
-        "image": "../../images/drivers/courage.jpg"
+        "image": "/images/drivers/courage.jpg"
     },
     {
         "id": "redman",
-        "image": "../../images/drivers/redman.jpg"
+        "image": "/images/drivers/redman.jpg"
     },
     {
         "id": "elford",
-        "image": "../../images/drivers/elford.jpg"
+        "image": "/images/drivers/elford.jpg"
     },
     {
         "id": "gavin",
-        "image": "../../images/drivers/gavin.jpg"
+        "image": "/images/drivers/gavin.jpg"
     },
     {
         "id": "charlton",
-        "image": "../../images/drivers/charlton.jpg"
+        "image": "/images/drivers/charlton.jpg"
     },
     {
         "id": "fisher",
-        "image": "../../images/drivers/fisher.jpg"
+        "image": "/images/drivers/fisher.jpg"
     },
     {
         "id": "williams",
-        "image": "../../images/drivers/williams.jpg"
+        "image": "/images/drivers/williams.jpg"
     },
     {
         "id": "hobbs",
-        "image": "../../images/drivers/hobbs.jpg"
+        "image": "/images/drivers/hobbs.jpg"
     },
     {
         "id": "rees",
-        "image": "../../images/drivers/rees.jpg"
+        "image": "/images/drivers/rees.jpg"
     },
     {
         "id": "beltoise",
-        "image": "../../images/drivers/beltoise.jpg"
+        "image": "/images/drivers/beltoise.jpg"
     },
     {
         "id": "oliver",
-        "image": "../../images/drivers/oliver.jpg"
+        "image": "/images/drivers/oliver.jpg"
     },
     {
         "id": "ickx",
-        "image": "../../images/drivers/ickx.jpg"
+        "image": "/images/drivers/ickx.jpg"
     },
     {
         "id": "lawrence",
-        "image": "../../images/drivers/lawrence.jpg"
+        "image": "/images/drivers/lawrence.jpg"
     },
     {
         "id": "geki",
-        "image": "../../images/drivers/geki.jpg"
+        "image": "/images/drivers/geki.jpg"
     },
     {
         "id": "ligier",
-        "image": "../../images/drivers/ligier.jpg"
+        "image": "/images/drivers/ligier.jpg"
     },
     {
         "id": "irwin",
-        "image": "../../images/drivers/irwin.jpg"
+        "image": "/images/drivers/irwin.jpg"
     },
     {
         "id": "parkes",
-        "image": "../../images/drivers/parkes.jpg"
+        "image": "/images/drivers/parkes.jpg"
     },
     {
         "id": "bondurant",
-        "image": "../../images/drivers/bondurant.jpg"
+        "image": "/images/drivers/bondurant.jpg"
     },
     {
         "id": "hawkins",
-        "image": "../../images/drivers/hawkins.jpg"
+        "image": "/images/drivers/hawkins.jpg"
     },
     {
         "id": "gardner",
-        "image": "../../images/drivers/gardner.jpg"
+        "image": "/images/drivers/gardner.jpg"
     },
     {
         "id": "attwood",
-        "image": "../../images/drivers/attwood.jpg"
+        "image": "/images/drivers/attwood.jpg"
     },
     {
         "id": "rindt",
-        "image": "../../images/drivers/rindt.jpg"
+        "image": "/images/drivers/rindt.jpg"
     },
     {
         "id": "hulme",
-        "image": "../../images/drivers/hulme.jpg"
+        "image": "/images/drivers/hulme.jpg"
     },
     {
         "id": "spence",
-        "image": "../../images/drivers/spence.jpg"
+        "image": "/images/drivers/spence.jpg"
     },
     {
         "id": "stewart",
-        "image": "../../images/drivers/stewart.jpg"
+        "image": "/images/drivers/stewart.jpg"
     },
     {
         "id": "taylor",
-        "image": "../../images/drivers/taylor.jpg"
+        "image": "/images/drivers/taylor.jpg"
     },
     {
         "id": "bucknum",
-        "image": "../../images/drivers/bucknum.jpg"
+        "image": "/images/drivers/bucknum.jpg"
     },
     {
         "id": "revson",
-        "image": "../../images/drivers/revson.jpg"
+        "image": "/images/drivers/revson.jpg"
     },
     {
         "id": "rodriguez",
-        "image": "../../images/drivers/rodriguez.jpg"
+        "image": "/images/drivers/rodriguez.jpg"
     },
     {
         "id": "hansgen",
-        "image": "../../images/drivers/hansgen.jpg"
+        "image": "/images/drivers/hansgen.jpg"
     },
     {
         "id": "arundell",
-        "image": "../../images/drivers/arundell.jpg"
+        "image": "/images/drivers/arundell.jpg"
     },
     {
         "id": "anderson",
-        "image": "../../images/drivers/anderson.jpg"
+        "image": "/images/drivers/anderson.jpg"
     },
     {
         "id": "solana",
-        "image": "../../images/drivers/solana.jpg"
+        "image": "/images/drivers/solana.jpg"
     },
     {
         "id": "serrurier",
-        "image": "../../images/drivers/serrurier.jpg"
+        "image": "/images/drivers/serrurier.jpg"
     },
     {
         "id": "collomb",
-        "image": "../../images/drivers/collomb.jpg"
+        "image": "/images/drivers/collomb.jpg"
     },
     {
         "id": "love",
-        "image": "../../images/drivers/love.jpg"
+        "image": "/images/drivers/love.jpg"
     },
     {
         "id": "settember",
-        "image": "../../images/drivers/settember.jpg"
+        "image": "/images/drivers/settember.jpg"
     },
     {
         "id": "hailwood",
-        "image": "../../images/drivers/hailwood.jpg"
+        "image": "/images/drivers/hailwood.jpg"
     },
     {
         "id": "broeker",
-        "image": "../../images/drivers/broeker.jpg"
+        "image": "/images/drivers/broeker.jpg"
     },
     {
         "id": "amon",
-        "image": "../../images/drivers/amon.jpg"
+        "image": "/images/drivers/amon.jpg"
     },
     {
         "id": "scarfiotti",
-        "image": "../../images/drivers/scarfiotti.jpg"
+        "image": "/images/drivers/scarfiotti.jpg"
     },
     {
         "id": "mitter",
-        "image": "../../images/drivers/mitter.jpg"
+        "image": "/images/drivers/mitter.jpg"
     },
     {
         "id": "schroeder",
-        "image": "../../images/drivers/schroeder.jpg"
+        "image": "/images/drivers/schroeder.jpg"
     },
     {
         "id": "pieterse",
-        "image": "../../images/drivers/pieterse.jpg"
+        "image": "/images/drivers/pieterse.jpg"
     },
     {
         "id": "siffert",
-        "image": "../../images/drivers/siffert.jpg"
+        "image": "/images/drivers/siffert.jpg"
     },
     {
         "id": "johnstone",
-        "image": "../../images/drivers/johnstone.jpg"
+        "image": "/images/drivers/johnstone.jpg"
     },
     {
         "id": "vaccarella",
-        "image": "../../images/drivers/vaccarella.jpg"
+        "image": "/images/drivers/vaccarella.jpg"
     },
     {
         "id": "lederle",
-        "image": "../../images/drivers/lederle.jpg"
+        "image": "/images/drivers/lederle.jpg"
     },
     {
         "id": "ricardo_rodriguez",
-        "image": "../../images/drivers/ricardo_rodriguez.jpg"
+        "image": "/images/drivers/ricardo_rodriguez.jpg"
     },
     {
         "id": "trevor_taylor",
-        "image": "../../images/drivers/trevor_taylor.jpg"
+        "image": "/images/drivers/trevor_taylor.jpg"
     },
     {
         "id": "may",
-        "image": "../../images/drivers/may.jpg"
+        "image": "/images/drivers/may.jpg"
     },
     {
         "id": "maggs",
-        "image": "../../images/drivers/maggs.jpg"
+        "image": "/images/drivers/maggs.jpg"
     },
     {
         "id": "sharp",
-        "image": "../../images/drivers/sharp.jpg"
+        "image": "/images/drivers/sharp.jpg"
     },
     {
         "id": "parnell",
-        "image": "../../images/drivers/tim_parnell.jpg"
+        "image": "/images/drivers/tim_parnell.jpg"
     },
     {
         "id": "ryan",
-        "image": "../../images/drivers/ryan.jpg"
+        "image": "/images/drivers/ryan.jpg"
     },
     {
         "id": "penske",
-        "image": "../../images/drivers/penske.jpg"
+        "image": "/images/drivers/penske.jpg"
     },
     {
         "id": "bandini",
-        "image": "../../images/drivers/bandini.jpg"
+        "image": "/images/drivers/bandini.jpg"
     },
     {
         "id": "beaufort",
-        "image": "../../images/drivers/beaufort.jpg"
+        "image": "/images/drivers/beaufort.jpg"
     },
     {
         "id": "lewis",
-        "image": "../../images/drivers/lewis.jpg"
+        "image": "/images/drivers/lewis.jpg"
     },
     {
         "id": "brooks",
-        "image": "../../images/drivers/brooks.jpg"
+        "image": "/images/drivers/brooks.jpg"
     },
     {
         "id": "baghetti",
-        "image": "../../images/drivers/baghetti.jpg"
+        "image": "/images/drivers/baghetti.jpg"
     },
     {
         "id": "hall",
-        "image": "../../images/drivers/hall.jpg"
+        "image": "/images/drivers/hall.jpg"
     },
     {
         "id": "bianchi",
-        "image": "../../images/drivers/bianchi.jpg"
+        "image": "/images/drivers/bianchi.jpg"
     },
     {
         "id": "cabianca",
-        "image": "../../images/drivers/cabianca.jpg"
+        "image": "/images/drivers/cabianca.jpg"
     },
     {
         "id": "branson",
-        "image": "../../images/drivers/branson.jpg"
+        "image": "/images/drivers/branson.jpg"
     },
     {
         "id": "henry_taylor",
-        "image": "../../images/drivers/henry_taylor.jpg"
+        "image": "/images/drivers/henry_taylor.jpg"
     },
     {
         "id": "mairesse",
-        "image": "../../images/drivers/mairesse.jpg"
+        "image": "/images/drivers/mairesse.jpg"
     },
     {
         "id": "surtees",
-        "image": "../../images/drivers/surtees.jpg"
+        "image": "/images/drivers/surtees.jpg"
     },
     {
         "id": "clark",
-        "image": "../../images/drivers/clark.jpg"
+        "image": "/images/drivers/clark.jpg"
     },
     {
         "id": "ginther",
-        "image": "../../images/drivers/ginther.jpg"
+        "image": "/images/drivers/ginther.jpg"
     },
     {
         "id": "scarlatti",
-        "image": "../../images/drivers/scarlatti.jpg"
+        "image": "/images/drivers/scarlatti.jpg"
     },
     {
         "id": "stacey",
-        "image": "../../images/drivers/stacey.jpg"
+        "image": "/images/drivers/stacey.jpg"
     },
     {
         "id": "blanchard",
-        "image": "../../images/drivers/blanchard.jpg"
+        "image": "/images/drivers/blanchard.jpg"
     },
     {
         "id": "burgess",
-        "image": "../../images/drivers/burgess.jpg"
+        "image": "/images/drivers/burgess.jpg"
     },
     {
         "id": "goldsmith",
-        "image": "../../images/drivers/goldsmith.jpg"
+        "image": "/images/drivers/goldsmith.jpg"
     },
     {
         "id": "allison",
-        "image": "../../images/drivers/allison.jpg"
+        "image": "/images/drivers/allison.jpg"
     },
     {
         "id": "ireland",
-        "image": "../../images/drivers/ireland.jpg"
+        "image": "/images/drivers/ireland.jpg"
     },
     {
         "id": "thomson",
-        "image": "../../images/drivers/thomson.jpg"
+        "image": "/images/drivers/thomson.jpg"
     },
     {
         "id": "ward",
-        "image": "../../images/drivers/ward.jpg"
+        "image": "/images/drivers/ward.jpg"
     },
     {
         "id": "gurney",
-        "image": "../../images/drivers/gurney.jpg"
+        "image": "/images/drivers/gurney.jpg"
     },
     {
         "id": "reece",
-        "image": "../../images/drivers/reece.jpg"
+        "image": "/images/drivers/reece.jpg"
     },
     {
         "id": "barth",
-        "image": "../../images/drivers/barth.jpg"
+        "image": "/images/drivers/barth.jpg"
     },
     {
         "id": "hill",
-        "image": "../../images/drivers/hill.jpg"
+        "image": "/images/drivers/hill.jpg"
     },
     {
         "id": "mclaren",
-        "image": "../../images/drivers/mclaren.jpg"
+        "image": "/images/drivers/mclaren.jpg"
     },
     {
         "id": "shelby",
-        "image": "../../images/drivers/shelby.jpg"
+        "image": "/images/drivers/shelby.jpg"
     },
     {
         "id": "george_amick",
-        "image": "../../images/drivers/george_amick.jpg"
+        "image": "/images/drivers/george_amick.jpg"
     },
     {
         "id": "phil_hill",
-        "image": "../../images/drivers/phil_hill.jpg"
+        "image": "/images/drivers/phil_hill.jpg"
     },
     {
         "id": "ivor-bueb",
-        "image": "../../images/drivers/ivor-bueb.jpg"
+        "image": "/images/drivers/ivor-bueb.jpg"
     },
     {
         "id": "macdowel",
-        "image": "../../images/drivers/macdowel.jpg"
+        "image": "/images/drivers/macdowel.jpg"
     },
     {
         "id": "bonnier",
-        "image": "../../images/drivers/bonnier.jpg"
+        "image": "/images/drivers/bonnier.jpg"
     },
     {
         "id": "boyd",
-        "image": "../../images/drivers/boyd.jpg"
+        "image": "/images/drivers/boyd.jpg"
     },
     {
         "id": "jack_brabham",
-        "image": "../../images/drivers/jack_brabham.jpg"
+        "image": "/images/drivers/jack_brabham.jpg"
     },
     {
         "id": "salvadori",
-        "image": "../../images/drivers/salvadori.jpg"
+        "image": "/images/drivers/salvadori.jpg"
     },
     {
         "id": "menditeguy",
-        "image": "../../images/drivers/menditeguy.jpg"
+        "image": "/images/drivers/menditeguy.jpg"
     },
     {
         "id": "trips",
-        "image": "../../images/drivers/trips.jpg"
+        "image": "/images/drivers/trips.jpg"
     },
     {
         "id": "lewis-evans",
-        "image": "../../images/drivers/lewis-evans.jpeg"
+        "image": "/images/drivers/lewis-evans.jpeg"
     },
     {
         "id": "gregory",
-        "image": "../../images/drivers/gregory.jpg"
+        "image": "/images/drivers/gregory.jpg"
     },
     {
         "id": "piotti",
-        "image": "../../images/drivers/piotti.jpg"
+        "image": "/images/drivers/piotti.jpg"
     },
     {
         "id": "landi",
-        "image": "../../images/drivers/landi.jpg"
+        "image": "/images/drivers/landi.jpg"
     },
     {
         "id": "gerini",
-        "image": "../../images/drivers/gerini.jpg"
+        "image": "/images/drivers/gerini.jpg"
     },
     {
         "id": "gendebien",
-        "image": "../../images/drivers/gendebien.jpg"
+        "image": "/images/drivers/gendebien.jpg"
     },
     {
         "id": "gould",
-        "image": "../../images/drivers/gould.jpg"
+        "image": "/images/drivers/gould.jpg"
     },
     {
         "id": "ramos",
-        "image": "../../images/drivers/ramos.jpg"
+        "image": "/images/drivers/ramos.jpg"
     },
     {
         "id": "perdisa",
-        "image": "../../images/drivers/perdisa.jpg"
+        "image": "/images/drivers/perdisa.jpg"
     },
     {
         "id": "portago",
-        "image": "../../images/drivers/portago.jpg"
+        "image": "/images/drivers/portago.jpg"
     },
     {
         "id": "freeland",
-        "image": "../../images/drivers/freeland.jpg"
+        "image": "/images/drivers/freeland.jpg"
     },
     {
         "id": "flockhart",
-        "image": "../../images/drivers/flockhart.jpg"
+        "image": "/images/drivers/flockhart.jpg"
     },
     {
         "id": "fairman",
-        "image": "../../images/drivers/fairman.jpg"
+        "image": "/images/drivers/fairman.jpg"
     },
     {
         "id": "godia",
-        "image": "../../images/drivers/godia.jpg"
+        "image": "/images/drivers/godia.jpg"
     },
     {
         "id": "flaherty",
-        "image": "../../images/drivers/flaherty.jpg"
+        "image": "/images/drivers/flaherty.jpg"
     },
     {
         "id": "vettel",
-        "image": "../../images/drivers/Vettel.jpg"
+        "image": "/images/drivers/vettel.jpg"
     },
     {
         "id": "alonso",
-        "image": "../../images/drivers/alonso.jpg"
+        "image": "/images/drivers/alonso.jpg"
     },
     {
         "id": "webber",
-        "image": "../../images/drivers/webber.jpg"
+        "image": "/images/drivers/webber.jpg"
     },
     {
         "id": "hamilton",
-        "image": "../../images/drivers/hamilton.jpg"
+        "image": "/images/drivers/hamilton.jpg"
     },
     {
         "id": "raikkonen",
-        "image": "../../images/drivers/raikkonen.jpg"
+        "image": "/images/drivers/raikkonen.jpg"
     },
     {
         "id": "rosberg",
-        "image": "../../images/drivers/rosberg.jpg"
+        "image": "/images/drivers/rosberg.jpg"
     },
     {
         "id": "grosjean",
-        "image": "../../images/drivers/grosjean.jpg"
+        "image": "/images/drivers/grosjean.jpg"
     },
     {
         "id": "massa",
-        "image": "../../images/drivers/massa.jpg"
+        "image": "/images/drivers/massa.jpg"
     },
     {
         "id": "button",
-        "image": "../../images/drivers/button.jpg"
+        "image": "/images/drivers/button.jpg"
     },
     {
         "id": "hulkenberg",
-        "image": "../../images/drivers/hulkenberg.jpg"
+        "image": "/images/drivers/hulkenberg.jpg"
     },
     {
         "id": "perez",
-        "image": "../../images/drivers/perez.jpg"
+        "image": "/images/drivers/perez.jpg"
     },
     {
         "id": "resta",
-        "image": "../../images/drivers/di-resta.jpg"
+        "image": "/images/drivers/di-resta.jpg"
     },
     {
         "id": "sutil",
-        "image": "../../images/drivers/sutil.jpg"
+        "image": "/images/drivers/sutil.jpg"
     },
     {
         "id": "ricciardo",
-        "image": "../../images/drivers/ricciardo.jpg"
+        "image": "/images/drivers/ricciardo.jpg"
     },
     {
         "id": "vergne",
-        "image": "../../images/drivers/vergne.jpg"
+        "image": "/images/drivers/vergne.jpg"
     },
     {
         "id": "gutierrez",
-        "image": "../../images/drivers/gutierrez.jpg"
+        "image": "/images/drivers/gutierrez.jpg"
     },
     {
         "id": "bottas",
-        "image": "../../images/drivers/bottas.jpg"
+        "image": "/images/drivers/bottas.jpg"
     },
     {
         "id": "maldonado",
-        "image": "../../images/drivers/maldonado.jpg"
+        "image": "/images/drivers/maldonado.jpg"
     },
     {
         "id": "pic",
-        "image": "../../images/drivers/pic.jpg"
+        "image": "/images/drivers/pic.jpg"
     },
     {
         "id": "garde",
-        "image": "../../images/drivers/van-der-garde.jpg"
+        "image": "/images/drivers/van-der-garde.jpg"
     },
     {
         "id": "kovalainen",
-        "image": "../../images/drivers/kovalainen.jpg"
+        "image": "/images/drivers/kovalainen.jpg"
     },
     {
         "id": "chilton",
-        "image": "../../images/drivers/chilton.jpg"
+        "image": "/images/drivers/chilton.jpg"
     },
     {
         "id": "farina",
-        "image": "../../images/drivers/farina.jpg"
+        "image": "/images/drivers/farina.jpg"
     },
     {
         "id": "fangio",
-        "image": "../../images/drivers/fangio.jpg"
+        "image": "/images/drivers/fangio.jpg"
     },
     {
         "id": "fagioli",
-        "image": "../../images/drivers/fagioli.jpg"
+        "image": "/images/drivers/fagioli.jpg"
     },
     {
         "id": "rosier",
-        "image": "../../images/drivers/rosier.jpg"
+        "image": "/images/drivers/rosier.jpg"
     },
     {
         "id": "ascari",
-        "image": "../../images/drivers/ascari.jpg"
+        "image": "/images/drivers/ascari.jpg"
     },
     {
         "id": "parsons",
-        "image": "../../images/drivers/parsons.jpg"
+        "image": "/images/drivers/parsons.jpg"
     },
     {
         "id": "holland",
-        "image": "../../images/drivers/holland.jpg"
+        "image": "/images/drivers/holland.jpg"
     },
     {
         "id": "bira",
-        "image": "../../images/drivers/bira.jpg"
+        "image": "/images/drivers/bira.jpg"
     },
     {
         "id": "whitehead",
-        "image": "../../images/drivers/whitehead.jpg"
+        "image": "/images/drivers/whitehead.jpg"
     },
     {
         "id": "chiron",
-        "image": "../../images/drivers/chiron.jpg"
+        "image": "/images/drivers/chiron.jpg"
     },
     {
         "id": "reg_parnell",
-        "image": "../../images/drivers/parnell.jpg"
+        "image": "/images/drivers/parnell.jpg"
     },
     {
         "id": "rose",
-        "image": "../../images/drivers/rose.jpg"
+        "image": "/images/drivers/rose.jpg"
     },
     {
         "id": "serafini",
-        "image": "../../images/drivers/serafini.jpg"
+        "image": "/images/drivers/serafini.jpg"
     },
     {
         "id": "cabantous",
-        "image": "../../images/drivers/cabantous.jpg"
+        "image": "/images/drivers/cabantous.jpg"
     },
     {
         "id": "sommer",
-        "image": "../../images/drivers/sommer.jpg"
+        "image": "/images/drivers/sommer.jpg"
     },
     {
         "id": "manzon",
-        "image": "../../images/drivers/manzon.jpg"
+        "image": "/images/drivers/manzon.jpg"
     },
     {
         "id": "green",
-        "image": "../../images/drivers/green.jpg"
+        "image": "/images/drivers/green.jpg"
     },
     {
         "id": "etancelin",
-        "image": "../../images/drivers/etancelin.jpg"
+        "image": "/images/drivers/etancelin.jpg"
     },
     {
         "id": "bonetto",
-        "image": "../../images/drivers/bonetto.jpg"
+        "image": "/images/drivers/bonetto.jpg"
     },
     {
         "id": "chaboud",
-        "image": "../../images/drivers/chaboud.jpg"
+        "image": "/images/drivers/chaboud.jpg"
     },
     {
         "id": "bettenhausen",
-        "image": "../../images/drivers/bettenhausen.jpg"
+        "image": "/images/drivers/bettenhausen.jpg"
     },
     {
         "id": "chitwood",
-        "image": "../../images/drivers/chitwood.jpg"
+        "image": "/images/drivers/chitwood.jpg"
     },
     {
         "id": "graffenried",
-        "image": "../../images/drivers/graffenried.jpeg"
+        "image": "/images/drivers/graffenried.jpeg"
     },
     {
         "id": "gerard",
-        "image": "../../images/drivers/gerrard.jpg"
+        "image": "/images/drivers/gerrard.jpg"
     },
     {
         "id": "villoresi",
-        "image": "../../images/drivers/villoresi.jpg"
+        "image": "/images/drivers/villoresi.jpg"
     },
     {
         "id": "pozzi",
-        "image": "../../images/drivers/pozzi.jpg"
+        "image": "/images/drivers/pozzi.jpg"
     },
     {
         "id": "wallard",
-        "image": "../../images/drivers/wallard.jpg"
+        "image": "/images/drivers/wallard.jpg"
     },
     {
         "id": "claes",
-        "image": "../../images/drivers/claes.jpg"
+        "image": "/images/drivers/claes.jpg"
     },
     {
         "id": "levegh",
-        "image": "../../images/drivers/levegh.jpg"
+        "image": "/images/drivers/levegh.jpg"
     },
     {
         "id": "harrison",
-        "image": "../../images/drivers/harrison.jpg"
+        "image": "/images/drivers/harrison.jpg"
     },
     {
         "id": "gonzalez",
-        "image": "../../images/drivers/gonzalez.jpg"
+        "image": "/images/drivers/gonzalez.jpg"
     },
     {
         "id": "taruffi",
-        "image": "../../images/drivers/taruffi.jpg"
+        "image": "/images/drivers/taruffi.jpg"
     },
     {
         "id": "nazaruk",
-        "image": "../../images/drivers/nazaruk.jpg"
+        "image": "/images/drivers/nazaruk.jpg"
     },
     {
         "id": "sanesi",
-        "image": "../../images/drivers/sanesi.jpg"
+        "image": "/images/drivers/sanesi.jpg"
     },
     {
         "id": "linden",
-        "image": "../../images/drivers/linden.jpg"
+        "image": "/images/drivers/linden.jpg"
     },
     {
         "id": "mcgrath",
-        "image": "../../images/drivers/mcgrath.jpg"
+        "image": "/images/drivers/mcgrath.jpg"
     },
     {
         "id": "ball",
-        "image": "../../images/drivers/ball.jpg"
+        "image": "/images/drivers/ball.jpg"
     },
     {
         "id": "ayulo",
-        "image": "../../images/drivers/ayulo.jpg"
+        "image": "/images/drivers/ayulo.jpg"
     },
     {
         "id": "fischer",
-        "image": "../../images/drivers/fischer.jpg"
+        "image": "/images/drivers/fischer.jpg"
     },
     {
         "id": "simon",
-        "image": "../../images/drivers/simon.jpg"
+        "image": "/images/drivers/simon.jpg"
     },
     {
         "id": "banks",
-        "image": "../../images/drivers/banks.jpg"
+        "image": "/images/drivers/banks.jpg"
     },
     {
         "id": "andre_pilette",
-        "image": "../../images/drivers/pilette.jpg"
+        "image": "/images/drivers/pilette.jpg"
     },
     {
         "id": "forberg",
-        "image": "../../images/drivers/forberg.jpg"
+        "image": "/images/drivers/forberg.jpg"
     },
     {
         "id": "peter_walker",
-        "image": "../../images/drivers/p_walker.jpg"
+        "image": "/images/drivers/p_walker.jpg"
     },
     {
         "id": "hawthorn",
-        "image": "../../images/drivers/hawthorn.jpg"
+        "image": "/images/drivers/hawthorn.jpg"
     },
     {
         "id": "ruttman",
-        "image": "../../images/drivers/ruttman.jpg"
+        "image": "/images/drivers/ruttman.jpg"
     },
     {
         "id": "rathmann",
-        "image": "../../images/drivers/rathmann.jpg"
+        "image": "/images/drivers/rathmann.jpg"
     },
     {
         "id": "dick_rathmann",
-        "image": "../../images/drivers/dick_rathmann.jpg"
+        "image": "/images/drivers/dick_rathmann.jpg"
     },
     {
         "id": "behra",
-        "image": "../../images/drivers/behra.jpg"
+        "image": "/images/drivers/behra.jpg"
     },
     {
         "id": "hanks",
-        "image": "../../images/drivers/hanks.jpg"
+        "image": "/images/drivers/hanks.jpg"
     },
     {
         "id": "wharton",
-        "image": "../../images/drivers/wharton.jpg"
+        "image": "/images/drivers/wharton.jpg"
     },
     {
         "id": "poore",
-        "image": "../../images/drivers/poore.jpg"
+        "image": "/images/drivers/poore.jpg"
     },
     {
         "id": "darter",
-        "image": "../../images/drivers/carter.jpg"
+        "image": "/images/drivers/carter.jpg"
     },
     {
         "id": "alan_brown",
-        "image": "../../images/drivers/brown.jpg"
+        "image": "/images/drivers/brown.jpg"
     },
     {
         "id": "trintignant",
-        "image": "../../images/drivers/trintignant.jpg"
+        "image": "/images/drivers/trintignant.jpg"
     },
     {
         "id": "frere",
-        "image": "../../images/drivers/frere.jpg"
+        "image": "/images/drivers/frere.jpg"
     },
     {
         "id": "cross",
-        "image": "../../images/drivers/cross.jpg"
+        "image": "/images/drivers/cross.jpg"
     },
     {
         "id": "thompson",
-        "image": "../../images/drivers/thompson.jpg"
+        "image": "/images/drivers/thompson.jpg"
     },
     {
         "id": "vukovich",
-        "image": "../../images/drivers/vukovich.jpg"
+        "image": "/images/drivers/vukovich.jpg"
     },
     {
         "id": "laurent",
-        "image": "../../images/drivers/laurent.jpg"
+        "image": "/images/drivers/laurent.jpg"
     },
     {
         "id": "collins",
-        "image": "../../images/drivers/collins.jpg"
+        "image": "/images/drivers/collins.jpg"
     },
     {
         "id": "bryan",
-        "image": "../../images/drivers/bryan.jpg"
+        "image": "/images/drivers/bryan.jpg"
     },
     {
         "id": "hirt",
-        "image": "../../images/drivers/hirt.jpg"
+        "image": "/images/drivers/hirt.jpg"
     },
     {
         "id": "tornaco",
-        "image": "../../images/drivers/tornaco.jpg"
+        "image": "/images/drivers/tornaco.jpg"
     },
     {
         "id": "duncan_hamilton",
-        "image": "../../images/drivers/d_hamilton.jpg"
+        "image": "/images/drivers/d_hamilton.jpg"
     },
     {
         "id": "marimon",
-        "image": "../../images/drivers/marimon.jpg"
+        "image": "/images/drivers/marimon.jpg"
     },
     {
         "id": "galvez",
-        "image": "../../images/drivers/galvez.jpg"
+        "image": "/images/drivers/galvez.jpg"
     },
     {
         "id": "lang",
-        "image": "../../images/drivers/lang.jpg"
+        "image": "/images/drivers/lang.jpg"
     },
     {
         "id": "paul_russo",
-        "image": "../../images/drivers/paul_russo.jpg"
+        "image": "/images/drivers/paul_russo.jpg"
     },
     {
         "id": "agabashian",
-        "image": "../../images/drivers/agabashian.jpg"
+        "image": "/images/drivers/agabashian.jpg"
     },
     {
         "id": "moss",
-        "image": "../../images/drivers/stirling_moss.jpg"
+        "image": "/images/drivers/stirling_moss.jpg"
     },
     {
         "id": "mieres",
-        "image": "../../images/drivers/mieres.jpg"
+        "image": "/images/drivers/mieres.jpg"
     },
     {
         "id": "daywalt",
-        "image": "../../images/drivers/daywalt.jpg"
+        "image": "/images/drivers/daywalt.jpg"
     },
     {
         "id": "schell",
-        "image": "../../images/drivers/schell.jpg"
+        "image": "/images/drivers/schell.jpg"
     },
     {
         "id": "swaters",
-        "image": "../../images/drivers/swaters.jpg"
+        "image": "/images/drivers/swaters.jpg"
     },
     {
         "id": "johnson",
-        "image": "../../images/drivers/johnson.jpg"
+        "image": "/images/drivers/johnson.jpg"
     },
     {
         "id": "kling",
-        "image": "../../images/drivers/kling.jpg"
+        "image": "/images/drivers/kling.jpg"
     },
     {
         "id": "herrmann",
-        "image": "../../images/drivers/herrman.jpg"
+        "image": "/images/drivers/herrman.jpg"
     },
     {
         "id": "musso",
-        "image": "../../images/drivers/musso.jpg"
+        "image": "/images/drivers/musso.jpg"
     },
     {
         "id": "mantovani",
-        "image": "../../images/drivers/mantovani.jpg"
+        "image": "/images/drivers/mantovani.jpg"
     },
     {
         "id": "maglioli",
-        "image": "../../images/drivers/maglioli.jpg"
+        "image": "/images/drivers/maglioli.jpg"
     },
     {
         "id": "bayol",
-        "image": "../../images/drivers/bayol.jpg"
+        "image": "/images/drivers/bayol.jpg"
     },
     {
         "id": "wacker",
-        "image": "../../images/drivers/wacker.jpg"
+        "image": "/images/drivers/wacker.jpg"
     },
     {
         "id": "castellotti",
-        "image": "../../images/drivers/castellotti.jpg"
+        "image": "/images/drivers/castellotti.jpg"
     },
     {
         "id": "sweikert",
-        "image": "../../images/drivers/sweikert.jpg"
+        "image": "/images/drivers/sweikert.jpg"
     },
     {
         "id": "pollet",
-        "image": "../../images/drivers/pollet.jpg"
+        "image": "/images/drivers/pollet.jpg"
     }
 ]

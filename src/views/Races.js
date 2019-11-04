@@ -28,7 +28,7 @@ class Races extends React.Component {
 
     getRaces = () => {
         var year = this.state.year;
-        var url = `http://ergast.com/api/f1/${year}/results/1.json`;
+        var url = `https://ergast.com/api/f1/${year}/results/1.json`;
         $.get(url, (data) => {
             this.setState({
                 races: data,
@@ -63,8 +63,10 @@ class Races extends React.Component {
             <div className="wrapper">
                 <div className="row">
                     <div className="col s12">
-                        <Link className="breadcrumb" to="/">Home</Link>
-                        <span className="breadcrumb" to="/">Races - {this.props.year}</span>
+                        <div className="breadCrumbsHolder">
+                            <Link className="breadcrumb" to="/formula-app/">Home</Link>
+                            <span className="breadcrumb">Races - {this.props.year}</span>
+                        </div>
                     </div>
                 </div>
                 <div className="row">

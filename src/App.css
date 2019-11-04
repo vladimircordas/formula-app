@@ -239,6 +239,10 @@ tbody tr:nth-child(odd) {
     color: #000;
 }
 
+.darkgray {
+    background-color: darkgray;
+}
+
 .MuiTableCell-root {
     border-bottom: 1px solid black !important;
 }
@@ -246,6 +250,10 @@ tbody tr:nth-child(odd) {
 .MuiTableCell-head {
     color: white !important;
     background: #212121;
+}
+
+.MuiTabs-indicator {
+    background-color: #d50000 !important;
 }
 
 .loading {
@@ -277,7 +285,6 @@ tbody tr:nth-child(odd) {
     animation: slideRightToLeft 0.5s forwards;
     position: relative;
     display: grid;
-    grid-template-rows: 60px 480px;
     grid-template-columns: 100%;
 }
 

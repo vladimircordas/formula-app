@@ -37,7 +37,7 @@ export class RaceResults extends Component {
         const year = this.props.year;
         const id = this.props.raceid;
         //debugger;
-        var url = `http://ergast.com/api/f1/${year}/circuits/${id}/results.json`;
+        var url = `https://ergast.com/api/f1/${year}/circuits/${id}/results.json`;
         $.get(url, (data) => {
 
             this.setState({

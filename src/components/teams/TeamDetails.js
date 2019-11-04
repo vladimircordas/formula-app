@@ -6,7 +6,6 @@ import { LazyLoadImage } from 'react-lazy-load-image-component';
 import TeamResults from './TeamResults';
 
 import { nationToNationality } from '../functions/nationToNationality';
-import { teamImage } from '../functions/teamImage';
 // ERROR IMAGE
 import ErrorImage from '../../images/safety-car.gif';
 
@@ -29,7 +28,7 @@ class TeamDetails extends React.Component {
     getTeams() {
         var year = this.props.year;
         const id = this.props.match.params.team
-        var url = `http://ergast.com/api/f1/${year}/constructors/${id}/constructorStandings.json`;
+        var url = `https://ergast.com/api/f1/${year}/constructors/${id}/constructorStandings.json`;
         $.get(url, (data) => {
 
             this.setState({
@@ -82,8 +81,8 @@ class TeamDetails extends React.Component {
                 <div className="row">
                     <div className="col s12">
                         <div className='breadCrumbsHolder'>
-                            <Link className="breadcrumb" to="/">Home</Link>
-                            <Link className="breadcrumb" to="/teams">Teams</Link>
+                            <Link className="breadcrumb" to="/formula-app/">Home</Link>
+                            <Link className="breadcrumb" to="/formula-app/teams">Teams</Link>
                             <span className="breadcrumb">{team.Constructor.name} - {this.props.year}</span>
                         </div>
                     </div>
@@ -95,7 +94,7 @@ class TeamDetails extends React.Component {
                                 <div className="card-image">
                                     <LazyLoadImage
                                         alt={team.Constructor.name}
-                                        src={`${this.teamImagesFunction(constructorId)}`} // use normal <img> attributes as props 
+                                        src={process.env.PUBLIC_URL + `${this.teamImagesFunction(constructorId)}`} // use normal <img> attributes as props 
                                     />
                                 </div>
                                 <div className="card-content">

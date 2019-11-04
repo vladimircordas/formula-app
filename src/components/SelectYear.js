@@ -14,7 +14,7 @@ class SelectYear extends React.Component {
 
     handleChangeYear(e) {
         this.props.getYear(e.target.value)
-        console.log(this.props.year);
+    //    console.log(this.props.year);
     }
     // handleSubmit(event){
 

@@ -6,7 +6,7 @@ import ReactPlayer from 'react-player';
 class Home extends React.Component {
 
     render() {
-        console.log('home ' + this.props.year);
+        // console.log('home ' + this.props.year);
 
         return (
 

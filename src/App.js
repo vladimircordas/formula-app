@@ -41,22 +41,22 @@ class App extends Component {
     // console.log('app ' + this.state.selectedYear)
     return (
       <div>
-        <Router history={history}>
+        <Router history={history} basename={process.env.PUBLIC_URL}>
           <SelectYear getYear={this.getSelectedYear} year={year} />
           <Drawer year={year} />
           <div className="mainBody">
             <Switch>
 
-              <Route exact path='/' component={() => <Home year={year} />} />
+              <Route exact path='/formula-app/' component={() => <Home year={year} />} />
 
-              <Route exact path='/drivers' component={() => <Drivers year={year} />} />
-              <Route exact path='/drivers/:driver' component={(props) => <DriverDetails {...props} year={year} />} />
+              <Route exact path='/formula-app/drivers' component={() => <Drivers year={year} />} />
+              <Route exact path='/formula-app/drivers/:driver' component={(props) => <DriverDetails {...props} year={year} />} />
 
-              <Route exact path='/teams' component={() => <Teams year={year} />} />
-              <Route exact path='/teams/:team' component={(props) => <TeamDetails {...props} year={year} />} />
+              <Route exact path='/formula-app/teams' component={() => <Teams year={year} />} />
+              <Route exact path='/formula-app/teams/:team' component={(props) => <TeamDetails {...props} year={year} />} />
 
-              <Route exact path='/races' component={() => <Races year={year} />} />
-              <Route exact path='/races/:race' component={(props) => <RaceDetails {...props} year={year} />} />
+              <Route exact path='/formula-app/races' component={() => <Races year={year} />} />
+              <Route exact path='/formula-app/races/:race' component={(props) => <RaceDetails {...props} year={year} />} />
 
               <Route component={NotFound} />
               

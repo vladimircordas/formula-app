@@ -43,10 +43,10 @@ export default function TemporaryDrawer() {
         >
             <ul>
                 <li className='relative'><img src={Logo} alt='f1 logo' className='asideLogo' /><div className='logoOverlay'>FORMULA 1<br />STATS</div></li>
-                <li className='relative'><NavLink exact={true} className='waves-effect waves-light btn white' activeClassName='is-active' to='/'><span className='decorativeFont'>Q</span>Home</NavLink></li>
-                <li className='relative'><NavLink exact={true} className='waves-effect waves-light btn white' activeClassName='is-active' to='/drivers'><span className='decorativeFont'>T</span>Drivers</NavLink></li>
-                <li className='relative'><NavLink exact={true} className='waves-effect waves-light btn white' activeClassName='is-active' to='/teams'><span className='decorativeFont'>'</span>Teams</NavLink></li>
-                <li className='relative'><NavLink exact={true} className='waves-effect waves-light btn white' activeClassName='is-active' to='/races'><span className='decorativeFont'>!</span>Races</NavLink></li>
+                <li className='relative'><NavLink exact={true} className='waves-effect waves-light btn white' activeClassName='is-active' to='/formula-app/'><span className='decorativeFont'>Q</span>Home</NavLink></li>
+                <li className='relative'><NavLink exact={true} className='waves-effect waves-light btn white' activeClassName='is-active' to='/formula-app/drivers'><span className='decorativeFont'>T</span>Drivers</NavLink></li>
+                <li className='relative'><NavLink exact={true} className='waves-effect waves-light btn white' activeClassName='is-active' to='/formula-app/teams'><span className='decorativeFont'>'</span>Teams</NavLink></li>
+                <li className='relative'><NavLink exact={true} className='waves-effect waves-light btn white' activeClassName='is-active' to='/formula-app/races'><span className='decorativeFont'>!</span>Races</NavLink></li>
             </ul >
         </div >
     );

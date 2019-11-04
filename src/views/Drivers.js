@@ -32,7 +32,7 @@ class Drivers extends React.Component {
     getDrivers() {
         var year = this.state.year;
         //console.log(year);
-        var url = `http://ergast.com/api/f1/${year}/driverStandings.json`;
+        var url = `https://ergast.com/api/f1/${year}/driverStandings.json`;
         $.get(url, (data) => {
             //console.log(data);
             this.setState({
@@ -49,7 +49,7 @@ class Drivers extends React.Component {
     render() {
         //console.log(this.state.drivers);
         //console.log(this.props.year);
-        console.log('drivers ' + this.state.year);
+        // console.log('drivers ' + this.state.year);
         if (this.state.loading === true) {
             return (
                 <div className="wrapper">
@@ -71,8 +71,10 @@ class Drivers extends React.Component {
             <div className="wrapper">
                 <div className="row">
                     <div className="col s12">
-                        <Link className="breadcrumb" to="/">Home</Link>
-                        <span className="breadcrumb">Drivers - {this.props.year}</span>
+                        <div className="breadCrumbsHolder">
+                            <Link className="breadcrumb" to="/formula-app/">Home</Link>
+                            <span className="breadcrumb">Drivers - {this.props.year}</span>
+                        </div>
                     </div>
                 </div>
                 <div className="row">

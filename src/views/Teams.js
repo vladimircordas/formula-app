@@ -31,7 +31,7 @@ class Teams extends React.Component {
 
     getTeams() {
         const year = this.state.year;
-        var url = `http://ergast.com/api/f1/${year}/constructorStandings.json`;
+        var url = `https://ergast.com/api/f1/${year}/constructorStandings.json`;
         $.get(url, (data) => {
             //    console.log(data);
             this.setState({
@@ -60,7 +60,7 @@ class Teams extends React.Component {
                     <div className="row">
                         <div className="col s12">
                             <div className='breadCrumbsHolder'>
-                                <Link className="breadcrumb" to="/">Home</Link>
+                                <Link className="breadcrumb" to="/formula-app/">Home</Link>
                                 <span className="breadcrumb">Teams - {this.props.year}</span>
                             </div>
                         </div>
@@ -116,7 +116,7 @@ class Teams extends React.Component {
                 <div className="row">
                     <div className="col s12">
                         <div className='breadCrumbsHolder'>
-                            <Link className="breadcrumb" to="/">Home</Link>
+                            <Link className="breadcrumb" to="/formula-app/">Home</Link>
                             <span className="breadcrumb">Teams - {this.props.year}</span>
                         </div>
                     </div>
